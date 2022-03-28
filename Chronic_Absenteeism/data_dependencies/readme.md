@@ -5,7 +5,7 @@ For this Chronic Absenteeism Package, it is built using (3 or 4) table types, us
 1. Attendance Data (e.g. SIS Module)
 2. SIS Data (e.g. SIS Module)
 3. Activity Data (e.g. Microsoft Education Insights Module)
-4. Behavior Data (e.g. ) <strong> \[MIGHT REMOVE\] </strong>
+4. Behavior Data (e.g. ) <strong> \[NOT CURRENTLY USED\] </strong>
 
 ## Notes and Planning for v1.0 Activity Relationship Table:
 
