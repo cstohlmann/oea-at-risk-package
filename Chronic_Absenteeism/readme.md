@@ -1,13 +1,17 @@
 # At-Risk Package Use-Case: Chronic Absenteeism 
-<em>[General template built out of the products created for FUSD - Fresno Unified School District]</em>
+<em><strong>[General template built out of the products created for FUSD - Fresno Unified School District]</em></strong>
 
-## Introduction to Use-Case
+Chronic absenteeism is a critical issue for school leaders, especially when identifying the primary struggle of student attendance. Factors of chronic absenteeism can vary from academic performance, to specific trends of absences that may be used as indicators for potential future chronic absenteeism. 
+
+<em><strong>[Insert an image relvant to Chronic Absenteeism]</em></strong>
+
+Within the scope of the At-Risk Package Suite, this section focuses on using SIS, digital activity, attendance, and behavior data to build machine learning models within Azure Synapse and ML Studio. The assets within this use-case are used to then support better predictions of future instances of chronic absenteeism, as well as assessing the effectiveness of intervention methods.
+
 ## Problem Statement
 ## Use-Case Impact/Solution
 
-## Other (Potentially Relevant or Related) Use-Cases
-
 ## Package setup
+1. 
 ## Package components
 Out-of-the box assets for this OEA package include: 
 1. [Data Dependencies](): 
@@ -22,16 +26,17 @@ Out-of-the box assets for this OEA package include:
  <p align="center">
   <em>(This dashboard example represents only data from - LIST MODULES USED HERE.)</em>
  </p>
+
 The Chronic Absenteeism package [welcomes contributions](https://github.com/microsoft/OpenEduAnalytics/blob/main/CONTRIBUTING.md). 
 
 This module was developed by [Kwantum Analytics](https://www.kwantumanalytics.com/) in partnership with [Fresno Unified School District]() \[SHOULD I INCLUDE THIS WITH A LINK?\]. The architecture and reference implementation for all modules is built on [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) - with [Azure Data Lake Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) as the storage backbone, and [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) providing the role-based access control.
-### For more info
-\[TO BE ADDED\]
+### For more info on modules used
+\[TO BE COMPLETED\]
 
 | Resource | Description |
 | --- | --- |
-|  |  |
-|  |  |
+| [Education Insights Premium Module](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Education_Insights_Premium) | Module used and referenced when building out this use-case template. |
+| [iReady Module](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/iReady) | Module used and referenced when building out this use-case template. |
 |  |  |
 |  |  |
 |  |  |
