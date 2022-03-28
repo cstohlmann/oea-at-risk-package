@@ -8,7 +8,7 @@ Chronic absenteeism, in the context of education, is characterized as the freque
 Within the scope of the At-Risk Package Suite, this section focuses on using SIS, digital activity, attendance, and behavior data to build machine learning models within Azure Synapse and ML Studio. The assets within this use-case are used to then support better predictions of future instances of chronic absenteeism, as well as assessing the effectiveness of intervention methods.
 
 ## Problem Statement
-Chronic absenteeism is a critical issue for school leaders, especially when identifying the primary struggle of student attendance. Factors of chronic absenteeism can vary from academic performance, to specific trends of absences that may be used as indicators for potential future chronic absenteeism. 
+Chronic absenteeism is a critical issue for school leaders, especially when identifying the primary struggle of student attendance. Factors of chronic absenteeism can vary from academic performance, to specific trends of absences that may be used as indicators for potential future persistance of absenteeism. 
 
 ## Use-Case Impact/Solution
 
