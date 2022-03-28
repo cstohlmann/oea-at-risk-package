@@ -1,4 +1,16 @@
 # At-Risk Package Use-Case: Chronic Absenteeism 
+
+### WHAT MARIA HAD
+The Predicting Chronic Absenteeism package in Open Education Analytics (OEA) provides a set of technical assets to support a university or school system in developing a predictive model of students in their system who may become chronically absent, in order to provide pro-active interventions to prevent or reduce high levels of absences. This OEA Package was developed through a partnership between Microsoft Education, Kwantum Analytics, and Fresno Unified School District in Fresno, California.   
+
+This package can use several OEA Modules to help ingest data sources that are typically used to understand patterns of chronic absenteeism (see below for list of relevant OEA modules).  
+
+Chronic absenteeism is generally defined as a student missing 10% or more of instructional time in school. Student absenteeism is a fundamental challenge to education systems, and it permeates education policy and practice discussions even more as result of the global pandemic. Machine learning offers the potential to find patterns of absenteeism across student demographic, attendance, engagement, achievement, and social-emotional measures to predict students at risk of becoming chronically absent so that proactive and preventative interventions can be utilized to support students.  
+
+Education systems are responsible for addressing student absenteeism and can use a predictive model to focus resources to more precisely support students who are on a trajectory leading to chronic absenteeism, identify the best interventions to prevent absenteeism, and ultimately reduce absenteeism.  
+
+The full Use Case documentation for Predicting Chronic Absenteeism is here. This document provides prior research on Chronic Absenteeism and a description of the process and decision-making for developing this use case in a way that demonstrates Microsoft’s Principles of Responsible Data and AI. It is highly recommended this document be reviewed by any education system considering using this package, and that the documentation be revised to the specific data and decisions for that system’s context.    
+### WHAT I CAME UP WITH
 <em><strong>[General template built out of the products created for FUSD - Fresno Unified School District]</em></strong>
 
 Chronic absenteeism, in the context of education, is characterized as the frequent and excessive number of absences that contribute to a student's struggle or failure in academic settings. 
