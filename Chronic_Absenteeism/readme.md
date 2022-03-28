@@ -1,13 +1,15 @@
 # At-Risk Package Use-Case: Chronic Absenteeism 
 <em><strong>[General template built out of the products created for FUSD - Fresno Unified School District]</em></strong>
 
-Chronic absenteeism is a critical issue for school leaders, especially when identifying the primary struggle of student attendance. Factors of chronic absenteeism can vary from academic performance, to specific trends of absences that may be used as indicators for potential future chronic absenteeism. 
+Chronic absenteeism, in the context of education, is characterized as the frequent and excessive number of absences that contribute to a student's struggle or failure in academic settings. 
 
 <em><strong>[Insert an image relvant to Chronic Absenteeism]</em></strong>
 
 Within the scope of the At-Risk Package Suite, this section focuses on using SIS, digital activity, attendance, and behavior data to build machine learning models within Azure Synapse and ML Studio. The assets within this use-case are used to then support better predictions of future instances of chronic absenteeism, as well as assessing the effectiveness of intervention methods.
 
 ## Problem Statement
+Chronic absenteeism is a critical issue for school leaders, especially when identifying the primary struggle of student attendance. Factors of chronic absenteeism can vary from academic performance, to specific trends of absences that may be used as indicators for potential future chronic absenteeism. 
+
 ## Use-Case Impact/Solution
 
 ## Package setup
