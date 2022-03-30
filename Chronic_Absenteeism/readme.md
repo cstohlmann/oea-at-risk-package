@@ -1,15 +1,35 @@
-# At-Risk Package Use-Case: Chronic Absenteeism 
+# At-Risk Package Use-Case: Predicting Chronic Absenteeism 
 
 ### WHAT MARIA HAD
 The Predicting Chronic Absenteeism package in Open Education Analytics (OEA) provides a set of technical assets to support a university or school system in developing a predictive model of students in their system who may become chronically absent, in order to provide pro-active interventions to prevent or reduce high levels of absences. This OEA Package was developed through a partnership between Microsoft Education, Kwantum Analytics, and Fresno Unified School District in Fresno, California.   
 
-This package can use several OEA Modules to help ingest data sources that are typically used to understand patterns of chronic absenteeism (see below for list of relevant OEA modules).  
+This package can use several [OEA Modules](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules) to help ingest data sources that are typically used to understand patterns of chronic absenteeism (see below for list of relevant OEA modules).  
 
 Chronic absenteeism is generally defined as a student missing 10% or more of instructional time in school. Student absenteeism is a fundamental challenge to education systems, and it permeates education policy and practice discussions even more as result of the global pandemic. Machine learning offers the potential to find patterns of absenteeism across student demographic, attendance, engagement, achievement, and social-emotional measures to predict students at risk of becoming chronically absent so that proactive and preventative interventions can be utilized to support students.  
 
 Education systems are responsible for addressing student absenteeism and can use a predictive model to focus resources to more precisely support students who are on a trajectory leading to chronic absenteeism, identify the best interventions to prevent absenteeism, and ultimately reduce absenteeism.  
 
-The full Use Case documentation for Predicting Chronic Absenteeism is here. This document provides prior research on Chronic Absenteeism and a description of the process and decision-making for developing this use case in a way that demonstrates Microsoft’s Principles of Responsible Data and AI. It is highly recommended this document be reviewed by any education system considering using this package, and that the documentation be revised to the specific data and decisions for that system’s context.    
+The full Use Case documentation for Predicting Chronic Absenteeism is here <strong><em>[ADD HYPERLINK]</strong></em>. This document provides prior research on Chronic Absenteeism and a description of the process and decision-making for developing this use case in a way that demonstrates Microsoft’s Principles of Responsible Data and AI. It is highly recommended this document be reviewed by any education system considering using this package, and that the documentation be revised to the specific data and decisions for that system’s context. 
+
+The predictive model provided in this OEA package combines several data sources identified through prior research to be strongly related to absenteeism: 
+ - detailed student data, 
+ - student patterns of academic digital engagement (both inside and outside school),
+ - demographic data, 
+ - academic data, 
+ - school level data, and 
+ - behavior data.
+ 
+ This data was combined to provided insights into:
+  - Patterns of absenteeism by school, grade, geographic location, absence reason, and over time: <strong><em>[CONSIDER RE-PHRASING]</strong></em>
+ <p align="center">
+ <strong><em>
+ [INCLUDE DASHBOARD PIC??]
+ </strong></em>
+ </p>
+ 
+  - A predictive model of potentially chronically absent students, that identifies the most likely reason (i.e. Drivers) why a student is predicted to become chronically absent.
+ 
+\[PICK UP HERE\]
 ### WHAT I CAME UP WITH
 <em><strong>[General template built out of the products created for FUSD - Fresno Unified School District]</em></strong>
 
