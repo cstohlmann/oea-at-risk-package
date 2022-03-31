@@ -1,6 +1,5 @@
 # At-Risk Package Use-Case: Predicting Chronic Absenteeism 
 
-### WHAT MARIA HAD
 The Predicting Chronic Absenteeism package in Open Education Analytics (OEA) provides a set of technical assets to support a university or school system in developing a predictive model of students in their system who may become chronically absent, in order to provide pro-active interventions to prevent or reduce high levels of absences. This OEA Package was developed through a partnership between Microsoft Education, Kwantum Analytics, and Fresno Unified School District in Fresno, California.   
 
 This package can use several [OEA Modules](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules) to help ingest data sources that are typically used to understand patterns of chronic absenteeism (see below for list of relevant OEA modules).  
@@ -23,28 +22,58 @@ The predictive model provided in this OEA package combines several data sources 
   - Patterns of absenteeism by school, grade, geographic location, absence reason, and over time: <strong><em>[CONSIDER RE-PHRASING]</strong></em>
  <p align="center">
  <strong><em>
- [INCLUDE DASHBOARD PIC??]
+ [INCLUDE DASHBOARD PIC]
  </strong></em>
  </p>
  
-  - A predictive model of potentially chronically absent students, that identifies the most likely reason (i.e. Drivers) why a student is predicted to become chronically absent.
+  - A predictive model of potentially chronically absent students, that identifies the most likely reason (i.e. Drivers) why a student is predicted to become chronically absent:
+<p align="center">
+ <strong><em>
+ [INCLUDE DASHBOARD PIC]
+ </strong></em>
+ </p>
  
-\[PICK UP HERE\]
-### WHAT I CAME UP WITH
-<em><strong>[General template built out of the products created for FUSD - Fresno Unified School District]</em></strong>
+  - A school-level dashboard for school support staff to quickly identify which students are at risk of becoming chronically absent, and for what reasons:
+<p align="center">
+ <strong><em>
+ [INCLUDE DASHBOARD PIC]
+ </strong></em>
+ </p>
+ 
+  - A student snapshot to provide real-time data to school and support staff:
+ <p align="center">
+ <strong><em>
+ [INCLUDE DASHBOARD PIC]
+ </strong></em>
+ </p>
 
-Chronic absenteeism, in the context of education, is characterized as the frequent and excessive number of absences that contribute to a student's struggle or failure in academic settings. 
+## Package Impact/Solutions
+The "Predicting Chronic Absenteeism" package (Use-Case??) from OEA can be used by system or institutional leaders, school, or department leaders, support staff, and educators to:
+ - More accurately identify which students are at risk of becoming chronically absent or may move to a higher tier of absence
+ - More quickly understand what type of support resources or interventions might be most appropriate to prevent or reduce absenteeism with individual students
+ - Provide a real-time and detailed snapshot of students who are at risk of higher level of absence to school support staff to guide their decisions and actions based on engagement, academic, and well-being patterns of that student.
 
-<em><strong>[Insert an image relvant to Chronic Absenteeism]</em></strong>
+## Package Components
+The architecture and reference implementation for all technical assets for this package are built on Azure Synapse Analytics <strong><em>\[INCLUDE HYPERLINK\]</strong></em> - with Azure Data Lake Storage <strong><em>\[INCLUDE HYPERLINK\]</strong></em> as the storage backbone, and Azure Active Directory <strong><em>\[INCLUDE HYPERLINK\]</strong></em> providing the role-based access control.
 
-Within the scope of the At-Risk Package Suite, this section focuses on using SIS, digital activity, attendance, and behavior data to build machine learning models within Azure Synapse and ML Studio. The assets within this use-case are used to then support better predictions of future instances of chronic absenteeism, as well as assessing the effectiveness of intervention methods.
+Assets in the Chronic Absenteeism package (use-case??) include:
 
-## Problem Statement
-Chronic absenteeism is a critical issue for school leaders, especially when identifying the primary struggle of student attendance. Factors of chronic absenteeism can vary from academic performance, to specific trends of absences that may be used as indicators for potential future persistance of absenteeism. 
+1. Documentation for ingesting data from  multiple sources, such as OEA modules into the data lake.
+2. Notebooks for cleaning, transforming, anonymizing, and enriching data into the data warehouse.
+3. Guide to developing a predictive ML model of chronically absent students using Azure Machine Learning.
+4. PowerBI templates for exploring, visualizing, and deriving insights from the data.
 
-## Use-Case Impact/Solution
+## Package Overview of Module Dependencies
+This package can use existing OEA modules:
 
-## Package setup
+1. [Ed-Fi Data Standards](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Education_Data_Standards/Ed-Fi) for typical SIS or MIS data, including detailed student attendance data, demographic data, and academic data.
+2. Microsoft digital engagement data, such as Teams [Education Insights Premium](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Education_Insights_Premium) or [Microsoft Graph](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Graph) data.
+3. [Clever data](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/Clever) for additional activity data from other education applications.
+4. [iReady data](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/iReady) for language and math (summative) assessments, if iReady applications are used in your education system.
+
+These OEA modules can be replaced with other types of data, and combined with other sources of data that the school or system has access to.
+
+## Package setup \[TO BE ADDED\]
 1. 
 ## Package components
 Out-of-the box assets for this OEA package include: 
