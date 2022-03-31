@@ -31,10 +31,10 @@ The table below specifies stage 2 data <em><strong>(expected??)</em></strong> re
 | Platform \& App signals (Clever, MS Graph, Edu Insights, iReady) | Platform \& App signals (Clever, MS Graph, Edu Insights, iReady) |  |
 | Social-emotional learning \& competencies data |  | Social-emotional learning \& competencies data | 
 | Online sentiment analysis |  | <strong><em>(Online??)</strong></em> Sentiment analysis |
+|  | Health, Medical, and Disabilities data | Health, Medical, and Disabilities data |
 |  | Social network data (if feasible) |  |
 |  | Behavior data |  |
 |  | Absence and absence code data |  |
-|  | Health, Medical, and Disabilities data | Health, Medical, and Disabilities data |
 |  | Transportation and school-move data |  |
 |  | Safety and Justice system data |  |
 |  |  | Reflect data (Insights) |
