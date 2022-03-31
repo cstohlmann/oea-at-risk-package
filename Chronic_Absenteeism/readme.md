@@ -20,32 +20,20 @@ The predictive model provided in this OEA package combines several data sources 
  
  This data was combined to provided insights into:
   - Patterns of absenteeism by school, grade, geographic location, absence reason, and over time: <strong><em>[CONSIDER RE-PHRASING]</strong></em>
- <p align="center">
- <strong><em>
- [INCLUDE DASHBOARD PIC]
- </strong></em>
- </p>
+
+![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Dashboard%20Overview.png)
  
   - A predictive model of potentially chronically absent students, that identifies the most likely reason (i.e. Drivers) why a student is predicted to become chronically absent:
-<p align="center">
- <strong><em>
- [INCLUDE DASHBOARD PIC]
- </strong></em>
- </p>
+
+![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Drivers%20Dashboard.png)
  
   - A school-level dashboard for school support staff to quickly identify which students are at risk of becoming chronically absent, and for what reasons:
-<p align="center">
- <strong><em>
- [INCLUDE DASHBOARD PIC]
- </strong></em>
- </p>
+
+![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Social%20Worker%20Dashboard.png)
  
   - A student snapshot to provide real-time data to school and support staff:
- <p align="center">
- <strong><em>
- [INCLUDE DASHBOARD PIC]
- </strong></em>
- </p>
+
+![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Student%20Profile%20Dashboard.png)
 
 ## Package Impact/Solutions
 The "Predicting Chronic Absenteeism" package (Use-Case??) from OEA can be used by system or institutional leaders, school, or department leaders, support staff, and educators to:
