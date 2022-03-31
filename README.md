@@ -24,5 +24,11 @@
 
 | Academic At-Risk | Chronic Absenteeism | Vulnerable Student |
 | --- | --- | --- |
-| LMS Data (assignment grades, assignment engagement) |  |
-|  |
+| LMS Data (assignment grades, assignment engagement) |  LMS data (assignment grades, assignment engagement) |  |
+| Platform \& App signals (Clever, MS Graph, Edu Insights, iReady) | Platform \& App signals (Clever, MS Graph, Edu Insights, iReady) Social network data (if feasible) |  Reflect data (Insights) |
+| Social-emotional learning \& competencies data | Behavior data | Social-emotional learning \& competencies data | 
+| Online sentiment analysis | Absence and absence code data | Sentiment analysis |
+| School climate and teacher behaviors (e.g. substitutes) | School climate and teacher behaviors (e.g. substitutes) | School climate and teacher behaviors (e.g. substitutes) |
+|  | Health, Medical, and Disabilities data | Health, Medical, and Disabilities data |
+|  | Transportation and school-move data |  |
+|  | Safety and Justice system data |  |
