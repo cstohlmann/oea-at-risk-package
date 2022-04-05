@@ -6,9 +6,7 @@ This OEA At-Risk Package <em><strong>(suite??)</em></strong> contains solutions 
 
 With this package <em><strong>(suite??)</em></strong>, the <em><strong>(predictions/outcomes/results??)</em></strong> can be used to identify and test <em><strong>(teacher/social-worker??)</em></strong> methods of intervention to better support and uphold student success.
 
-## Framework for At-Risk Package Use-Cases
-
-### Library of Use-Cases:
+## Library of Use-Cases
 
 The table below characterizes and categorizes the various use-cases that can be addressed through the OEA At-Risk package. The assets within each of the use-cases can be used to provide answers <em><strong>(and predictions??)</em></strong> to school and <em><strong>(district/partnership??) [Note: Supposedly, Australia's name for school districts are "partnerships", which is why I included it here]</em></strong> leaders. 
 
@@ -17,7 +15,7 @@ The table below characterizes and categorizes the various use-cases that can be 
 | Predicting students at risk of failing a class, course, or semester | Predicting students at different levels of absenteeism, and identifying most likely reasons for absenteeism to guide preventative actions | Predicting students who are or may become vulnerable outside of school and need additional school or state supports |
 | Predicting students at risk of a graduation or not completing a degree program |
 
-### Data Requirements (and OEA modules):
+## Data Requirements (and OEA modules)
 
 The table below specifies stage 2 data <em><strong>(expected??)</em></strong> requirements that are considered <em><strong>(in theory or practice??)</em></strong> for the OEA At-Risk package.
 
@@ -39,7 +37,7 @@ The table below specifies stage 2 data <em><strong>(expected??)</em></strong> re
 |  | Safety and Justice system data |  |
 |  |  | Reflect data (Insights) |
 
-## How to Navigate the Use-Case Templates
+## Use-Case Assets
 
 Currently, this package contains 3 primary use-cases (academic at-risk, chronic absenteeism, and student vulnerability) and 7 assets per use-case, which can be found in the following sub-folder directory.
 
