@@ -2,7 +2,7 @@
 
 This OEA At-Risk Package <em><strong>(suite??)</em></strong> contains solutions to a variety of different scenarios, when assessing whether a student is "at-risk". From a pedagogical standpoint, "at-risk" is defined as students that are on the verge of being at-risk for academic struggle or failure. OEA has worked to identify the following three primary at-risk categories in which, <em><strong>(schools/insutitutions??)</em></strong> seek solutions towards:
 
-![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Academic_At_Risk/docs/images/At-Risk%20Flow%20Chart.png)
+![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Academic_At_Risk/docs/images/At-Risk-Package-Use-Cases.png)
 
 With this package <em><strong>(suite??)</em></strong>, the <em><strong>(predictions/outcomes/results??)</em></strong> can be used to identify and test <em><strong>(teacher/social-worker??)</em></strong> methods of intervention to better support and uphold student success.
 
