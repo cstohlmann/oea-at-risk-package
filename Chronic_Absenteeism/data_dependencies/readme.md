@@ -1,7 +1,17 @@
 # Data Dependencies
+This section of the use-case provides details regarding the schema changes made during data curation for the Power BI dashboard, and how other data sources or modules can be modified and used in place of other modules used out-of-the-box.
 
+ - <strong>(Current) schema changes to be noted:</strong> Activity table(s).
+ - <strong>Module/Data source initially used:</strong> Education Insights Activity table.
+ - <strong>Data products created:</strong> Activity tables <em>(i.e. Event, SoftwareApplication, and AggregateMeasure)</em>. 
+<p align="center">
+ <em><strong>
+ [CONSIDER ADDING PICTURE OF SCHEMA/COLUMN MAPPINGS] 
+  </em></strong>
+ </p>
+ 
 ## Module/Data Source Dependencies
-For this Chronic Absenteeism Package, it is built using (3 or 4) table types, using (2 or 3) OEA modules out-of-the-box:
+For this Chronic Absenteeism Use-Case, it is built using (3 or 4) table types, using (2 or 3) OEA modules out-of-the-box:
 1. Attendance Data (e.g. SIS Module)
 2. SIS Data (e.g. SIS Module)
 3. Digital Activity Data (e.g. Microsoft Education Insights Module)
