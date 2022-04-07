@@ -1,14 +1,14 @@
-# OEA At-Risk Package
+# OEA Student Support Packages
 
-This OEA At-Risk Package <em><strong>(suite??)</em></strong> contains solutions to a variety of different scenarios, when assessing whether a student is "at-risk". From a pedagogical standpoint, "at-risk" is defined as students that are on the verge of being at-risk for academic struggle or failure. OEA has worked to identify the following three primary at-risk categories in which, <em><strong>(schools/insutitutions??)</em></strong> seek solutions towards:
+These OEA Student Support Packages <em><strong>(suite??)</em></strong> contains solutions to a variety of different scenarios, when assessing whether a student is in need of support. From a pedagogical standpoint, "at-risk" is defined as students that are on the verge of being at-risk for academic struggle or failure. OEA has identified the following three primary student support categories, in which <em><strong>(schools/insutitutions??)</em></strong> seek solutions towards:
 
 ![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Academic_At_Risk/docs/images/At-Risk-Package-Use-Cases.png)
 
-With this package <em><strong>(suite??)</em></strong>, the <em><strong>(predictions/outcomes/results??)</em></strong> can be used to identify and test <em><strong>(teacher/social-worker??)</em></strong> methods of intervention to better support and uphold student success.
+With these packages, the <em><strong>(predictions/outcomes/results??)</em></strong> can be used to identify and test <em><strong>(teacher/social-worker??)</em></strong> methods of intervention to better support and uphold student success.
 
 ## Library of Use-Cases
 
-The table below characterizes and categorizes the various use-cases that can be addressed through the OEA At-Risk package. The assets within each of the use-cases can be used to provide answers <em><strong>(and predictions??)</em></strong> to school and <em><strong>(district/partnership??) [Note: Supposedly, Australia's name for school districts are "partnerships", which is why I included it here]</em></strong> leaders. 
+The table below characterizes and categorizes the various use-cases that can be addressed through the OEA Student Support packages. The assets within each of the packages can be used to provide answers <em><strong>(and predictions??)</em></strong> to school and <em><strong>(district/partnership??) [Note: Supposedly, Australia's name for school districts are "partnerships", which is why I included it here]</em></strong> leaders. 
 
 | [Academic At-Risk](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Academic_At_Risk) | [Chronic Absenteeism](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism) | [Vulnerable Student](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Vulnerable_Students) |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ The table below characterizes and categorizes the various use-cases that can be 
 
 ## Data Requirements (and OEA modules)
 
-The table below specifies stage 2 data <em><strong>(expected??)</em></strong> requirements that are considered <em><strong>(in theory or practice??)</em></strong> for the OEA At-Risk package.
+The table below specifies stage 2 data <em><strong>(expected??)</em></strong> requirements that are considered <em><strong>(in theory or practice??)</em></strong> for the OEA Student Support packages.
 
 <strong><em>Note: The assets provided within each of these use-case templates are general solutions. This means that they lean on specific modules out-of-the-box, but can be customized to incorporate the use of other modules or data sources.</em></strong>
 
@@ -37,9 +37,9 @@ The table below specifies stage 2 data <em><strong>(expected??)</em></strong> re
 |  | Safety and Justice system data |  |
 |  |  | Reflect data (Insights) |
 
-## Use-Case Assets
+## Package Assets
 
-Currently, this package contains 3 primary use-cases (academic at-risk, chronic absenteeism, and student vulnerability) and 7 assets per use-case, which can be found in the following sub-folder directory.
+Currently, this package contains 3 primary packages (academic at-risk, chronic absenteeism, and student vulnerability) and 7 assets per package, which can be found in the following sub-folder directory.
 
 ![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Folder%20Partitioning.png)
 
