@@ -1,4 +1,4 @@
-# At-Risk Package Use-Case: Predicting Chronic Absenteeism 
+# Student Support Package: Predicting Chronic Absenteeism 
 
 The Predicting Chronic Absenteeism package in Open Education Analytics (OEA) provides a set of technical assets to support a university or school system in developing a predictive model of students in their system who may become chronically absent, in order to provide pro-active interventions to prevent or reduce high levels of absences. This OEA Package was developed through a partnership between Microsoft Education, Kwantum Analytics, and Fresno Unified School District in Fresno, California.   
 
@@ -12,7 +12,7 @@ Education systems are responsible for addressing student absenteeism and can use
 
 ## Use-Case Direction and Data-Type Requirements
 
-The full Use Case documentation for Predicting Chronic Absenteeism is here <strong><em>[ADD HYPERLINK]</strong></em>. This document provides prior research on Chronic Absenteeism and a description of the process and decision-making for developing this use case in a way that demonstrates Microsoft’s Principles of Responsible Data and AI. It is highly recommended this document be reviewed by any education system considering using this package, and that the documentation be revised to the specific data and decisions for that system’s context. 
+The full Use-Case documentation for Predicting Chronic Absenteeism is here <strong><em>[ADD HYPERLINK]</strong></em>. This document provides prior research on Chronic Absenteeism and a description of the process and decision-making for developing this use case in a way that demonstrates Microsoft’s Principles of Responsible Data and AI. It is highly recommended this document be reviewed by any education system considering using this package, and that the documentation be revised to the specific data and decisions for that system’s context. 
 
 The predictive model provided in this OEA package combines several data sources identified through prior research to be strongly related to absenteeism: 
  - detailed student data, 
@@ -53,14 +53,14 @@ The predictive model provided in this OEA package combines several data sources 
  </em>
  </p>
 
-## Use-Case Results/Solutions
+## Package Results/Solutions
 The "Predicting Chronic Absenteeism" Use-Case from OEA can be used by system or institutional leaders, school, or department leaders, support staff, and educators to:
  - More accurately identify which students are at risk of becoming chronically absent or may move to a higher tier of absence
  - More quickly understand what type of support resources or interventions might be most appropriate to prevent or reduce absenteeism with individual students
  - Provide a real-time and detailed snapshot of students who are at risk of higher level of absence to school support staff to guide their decisions and actions based on engagement, academic, and well-being patterns of that student.
 
-## Use-Case Components
-This module was developed by [Kwantum Analytics](https://www.kwantumanalytics.com/) in partnership with [Fresno Unified School District]() <strong><em>\[SHOULD I INCLUDE THIS WITH A LINK?\]</strong></em>. The architecture and reference implementation for all modules is built on [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) - with [Azure Data Lake Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) as the storage backbone, and [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) providing the role-based access control.
+## Package Components
+This Predicting Chronic Absenteeism package was developed by [Kwantum Analytics](https://www.kwantumanalytics.com/) in partnership with [Fresno Unified School District]() <strong><em>\[SHOULD I INCLUDE THIS WITH A LINK?\]</strong></em>. The architecture and reference implementation for all modules is built on [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) - with [Azure Data Lake Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) as the storage backbone, and [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) providing the role-based access control.
 
 Assets in the Chronic Absenteeism use-case include:
 
@@ -71,7 +71,7 @@ Assets in the Chronic Absenteeism use-case include:
 4. [Pipelines](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/pipelines): For an overarching picture of the processes used to create/train the machine learning model, and push respective data points to the dashboard template(s).
 5. [PowerBI templates](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/powerbi): For exploring, visualizing, and deriving insights from the data.
 
-### Overview of Use-Case Module Dependencies
+### Overview of Module Dependencies for Package
 This package can use existing OEA modules:
 
 | Dependency | Description |
