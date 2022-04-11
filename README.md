@@ -1,6 +1,6 @@
 # OEA Student Support Packages
 
-These OEA Student Support Packages <em><strong>(suite??)</em></strong> contains solutions to a variety of different scenarios, when assessing whether a student is in need of support. From a pedagogical standpoint, "at-risk" is defined as students that are on the verge of being at-risk for academic struggle or failure. OEA has identified the following three primary student support categories, in which <em><strong>(schools/insutitutions??)</em></strong> seek solutions towards:
+These OEA Student Support Packages contains solutions to a variety of different scenarios, when assessing whether a student is in need of support. From a pedagogical standpoint, "at-risk" is defined as students that are on the verge of being at-risk for academic struggle or failure. OEA has identified the following three primary student support categories, in which <em><strong>(schools/insutitutions??)</em></strong> seek solutions towards:
 
 ![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Academic_At_Risk/docs/images/At-Risk-Package-Use-Cases.png)
 
