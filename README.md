@@ -4,11 +4,11 @@ These OEA Student Support Packages contains solutions to a variety of scenarios 
 
 ![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Academic_At_Risk/docs/images/At-Risk-Package-Use-Cases.png)
 
-With these packages, the <em><strong>(predictions/outcomes/results??)</em></strong> can be used to identify and test <em><strong>(teacher/social-worker??)</em></strong> methods of intervention to better support and uphold student success.
+With these packages, the findings can be used to identify and test methods of intervention to better support and uphold student success.
 
 ## Library of Use-Cases
 
-The table below characterizes and categorizes the various use-cases that can be addressed through the OEA Student Support packages. The assets within each of the packages can be used to provide answers <em><strong>(and predictions??)</em></strong> to school and <em><strong>(district/partnership??) [Note: Supposedly, Australia's name for school districts are "partnerships", which is why I included it here]</em></strong> leaders. 
+The table below characterizes various use-cases that can be addressed through the OEA Student Support packages. The assets within each package can be used to provide guidance to school leaders and other key stakeholders. 
 
 | [Academic At-Risk](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Academic_At_Risk) | [Chronic Absenteeism](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism) | [Vulnerable Student](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Vulnerable_Students) |
 | --- | --- | --- |
