@@ -1,5 +1,5 @@
 # Data Dependencies
-This section of the use-case provides details regarding the schema changes made during data curation for the Power BI dashboard, and how other data sources or modules can be modified and used in place of other modules used out-of-the-box.
+This section of the package provides details regarding the schema changes made during data curation for the Power BI dashboard, and how other data sources or modules can be modified and used in place of other modules used out-of-the-box.
 
  - <strong>(Current) schema changes to be noted:</strong> Activity table(s).
  - <strong>Module/Data source initially used:</strong> Education Insights Activity table.
@@ -11,16 +11,21 @@ This section of the use-case provides details regarding the schema changes made 
  </p>
  
 ## Module/Data Source Dependencies
-For this Chronic Absenteeism Use-Case, it is built using (3 or 4) table types, using (2 or 3) OEA modules out-of-the-box:
-1. Attendance Data (e.g. SIS Module)
-2. SIS Data (e.g. SIS Module)
-3. Digital Activity Data (e.g. Microsoft Education Insights Module)
-4. Behavior Data (e.g. ) <strong> \[NOT CURRENTLY USED\] </strong>
+The data sources most frequently needed and used for developing insights into Chronic Absenteeism include:
+ - SIS or MS Data: Attendance, school, department, course rosters, class's subject, grade level, student behavior, and demographics as needed
+ - School climate or student well-being data
+ - LMS Data (assignment grades, assignment engagement, marks or grades)
+ - Digital learning platform \& app use data
+ - Health, medical, and disabilities data
+ - Transportation and school-move data
+
+For the Chronic Absenteeism Use Case developed with Fresno Unified, several OEA modules were used:
+1. Student Information System (SIS) Data module using [Ed-Fi Data Standard Module](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Education_Data_Standards/Ed-Fi),
+2. [Microsoft Education Insights Module](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Education_Insights_Premium) for LMS Data,
+3. [iReady](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/iReady) for student outcome data, and
+4. [Clever](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/Clever) for other digital learning app use data.
 
 ## Notes and Planning for v1.0 Activity Relationship Table:
-
-### Standing Questions:
- - Can we write all these tables to Delta instead of the unstructured format of JSON?
 
 ### First-Draft Concepts:
 <em> Currently, thinking of using 3 first-draft relationship tables </em> 
