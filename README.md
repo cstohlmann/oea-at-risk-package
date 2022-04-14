@@ -38,16 +38,15 @@ Currently, this package contains 3 primary packages (academic at-risk, chronic a
 
 ![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Folder%20Partitioning.png)
 
- - <strong>Machine Learning (ML) Models:</strong> Contains various <strong><em>(checkpoints of versioning??)</strong></em> for the machine learning models trained.
-      * <em>Note: These are often subject to changes and updates as more discovery becomes available, and model-training experimentation is conducted. </em>
- - <strong>Data Dependencies:</strong> Lists the schema mappings from module data tables to the OEA-defined, general-category tables.
-      * <em>e.g. MS Education Insights Premium Module Activity table -> OEA-defined Events, SoftwareApplications, and AggregrateMeasure tables.</em>
- - <strong>Documentation:</strong> Explanation of how to tailor the use-case assets to <strong><em>(school/institution-specific??)</strong></em> needs.
- - <strong>Notebooks:</strong> Set of all notebooks for processing and enriching used in the implementation of the use-case (.ipynb files). 
+ - <strong>Documentation:</strong> Each package includes Use Case Documentation that provides guidance on the end-to-end process of developing a successful use case project, including how to engage stakeholders in the project, prior research on the use case problem domain, and how to implement principles of responsible data and AI in practice. This folder also provides an explanation of how to tailor the use-case assets to the specific needs of an education system or school. 
+ - <strong> Machine Learning (ML) Models:</strong>  Contains technical assets and methodological guidance for the machine learning models trained. 
+      * <em> Note: These are often subject to changes and updates as more discovery becomes available, and model-training experimentation is conducted. </em>
+ - <strong>Data Dependencies:</strong> Lists the schema mappings from module data tables to the OEA-defined, general-category tables. 
+      * <em>MS Education Insights Premium Module Activity table -> OEA-defined Events, SoftwareApplications, and AggregrateMeasure tables. </em>
+ - <strong>Notebooks:</strong> Set of all notebooks for processing and enriching data used in the implementation of the use-case (.ipynb files). 
       * <em>e.g. Data aggregation, data manipulation, simple analysis operations, and schema transformation. </em>
  - <strong>Pipelines:</strong> Set of all pipeline templates used in the implementation of the use-case (.zip folders).
       * <em>Note: These often rely on notebooks, thus ensure that all use-case-relevant notebooks are imported.</em>
  - <strong>Power BI Templates:</strong> Set of all Power BI dashboard templates for relaying results and value from data analysis (.pbix files).
- - <strong>Rubrics:</strong> Use-case-specific OEA rubrics, that outline functionality and current state of the assets within the use-case.
 
 
