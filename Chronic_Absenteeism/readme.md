@@ -63,8 +63,7 @@ Assets in the Chronic Absenteeism use-case include:
 2. [Documentation](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/docs): 
      * The <em>[OEA Chronic Absenteeism Package - Use Case Documentation](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/OEA%20Chronic%20Absenteeism%20Package%20-%20Use%20Case%20Documentation.pdf)</em> provides guidance on the end-to-end process of developing a successful use case project, including how to engage stakeholders in the project, prior research on the use case problem domain and theory, how to map data sources to the theory of the problem, and how to implement principals of responsible data and AI in the process of predictive modelling.
      * For ingesting data from multiple sources, such as OEA modules into the data lake.
-     * At some point: Guide to developing a predictive ML model of chronically absent students with Azure Machine Learning.
-3. [Notebooks](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/notebooks): For cleaning, processing, anonymizing/pseudonymizing, and curating data within the data warehouse.
+3. [Notebooks](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/notebooks): For cleaning, processing, anonymizing/pseudonymizing, and curating data within the data lake.
 4. [Pipelines](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/pipelines): For an overarching picture of the processes used to create/train the machine learning model, and push respective data points to the dashboard template(s).
 5. [PowerBI templates](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/powerbi): For exploring, visualizing, and deriving insights from the data.
 
