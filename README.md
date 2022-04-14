@@ -1,19 +1,20 @@
 # OEA Student Support Packages
 
-These OEA Student Support Packages contains solutions to a variety of scenarios when assessing whether a student is in need of support. There are three primary student support categories for which schools and institutions seek solutions towards:
+This collection of OEA Student Support Packages contains technical resources for a variety of common education use cases, related to predicting whether a student needs specialized support. Depending on their context, students may need academic support for specific skills or knowledge domains; they may need support to ensure they can attend and engage in school; or they may need support with their home, health, or safety context. The OEA community has identified three primary categories of student supports that are needed in both primary, secondary and post-secondary education systems. 
 
 ![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Academic_At_Risk/docs/images/At-Risk-Package-Use-Cases.png)
 
-With these packages, the findings can be used to identify and test methods of intervention to better support and uphold student success.
+The OEA packages in this collection can be used to set up the data resources, stakeholder engagement, responsible AI processes, machine learning models, and dashboards that can identify patterns of supports needed and predict which individual students are likely to become in need of supports. The predictions can help education systems and schools choose the right methods of intervention to reduce or prevent student challenges and better support each student’s success. 
 
-## Library of Use-Cases
+Each use case package includes Use Case Documentation that provides guidance on the end-to-end process of developing a successful use case project, including how to engage stakeholders in the project, prior research on the use case problem domain and theory, how to map data sources to the theory of the problem, and how to implement principles of responsible data and AI in the process of predictive modelling. 
 
-The table below characterizes various use-cases that can be addressed through the OEA Student Support packages. The assets within each package can be used to provide guidance to school leaders and other key stakeholders. 
+## Library of Student Support Use-Cases 
 
-| [Academic At-Risk](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Academic_At_Risk) | [Chronic Absenteeism](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism) | [Vulnerable Student](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Vulnerable_Students) |
+The table below describes the use-cases that can be addressed through the OEA Student Support packages.  
+
+| [Chronic Absenteeism](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism) | [Academic At-Risk](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Academic_At_Risk) | [Vulnerable Student](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Vulnerable_Students) |
 | --- | --- | --- |
-| Predicting students at risk of failing a class, course, or semester | Predicting students at different levels of absenteeism, and identifying most likely reasons for absenteeism to guide preventative actions | Predicting students who are or may become vulnerable outside of school and need additional school or state supports |
-| Predicting students at risk of a graduation or not completing a degree program |
+| Predicting students at different levels of absenteeism, and identifying most likely reasons for absenteeism to guide preventative actions | Predicting students at risk of failing a class, course, or semester; predicting students at risk of a not graduating or not completing a degree program |Predicting students who are or may become vulnerable outside of school and need additional school or state supports |
 
 ## Data Requirements (and OEA modules)
 
