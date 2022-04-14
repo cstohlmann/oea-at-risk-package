@@ -1,5 +1,7 @@
 # Documents and Images
 
+The OEA Chronic Absenteeism Package - Use Case Documentation provides guidance on the end-to-end process of developing a successful Chronic Absenteeism use case project, including how to engage stakeholders in the project, prior research on the use case problem domain and theory, how to map data sources to the theory of the problem, and how to implement principles of responsible data and AI in the process of predictive modelling. 
+
 Elements to be included here:
  - Fresno Use-Case.
  - Brief explanation of how to use this package.
