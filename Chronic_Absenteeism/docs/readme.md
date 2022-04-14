@@ -8,6 +8,9 @@ Elements to be included here:
      * "Guide to developing a predictive ML model of chronically absent students using Azure Machine Learning."
 
 ### First Draft of Explanation and "How to tailor this package"
+
+Maria comment: This needs to include SIS data as those are the MAIN data sources for attendance as outcome feature to be predicted. This whole section needs to outline the relationship between features as a research problem, doesn't it?
+
 This "Predicting Chronic Absenteeism" package currently leans on the [Education Insights Module](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Education_Insights_Premium) for activity data. In order to leverage a different activity-based module or data source,
 1. <strong>Class Notebook Editing:</strong> First, refer to the class notebook (ChronicAbsenteeism_py). The methods outlining curation of the Insights activity table maps to 3 different OEA-standard tables (i.e. Event, SoftwareApplication, and AggregateMeasure).
       * <em>What needs to be done:</em> you will need to create a schema mapping to these three tables from your activity data/table.
