@@ -2,7 +2,7 @@
 
 This collection of OEA Student Support Packages contains technical resources for a variety of common education use cases, related to predicting whether a student needs specialized support. Depending on their context, students may need academic support for specific skills or knowledge domains; they may need support to ensure they can attend and engage in school; or they may need support with their home, health, or safety context. The OEA community has identified three primary categories of student supports that are needed in both primary, secondary and post-secondary education systems. 
 
-![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Academic_At_Risk/docs/images/At-Risk-Package-Use-Cases.png)
+![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/images/studentSupportPackages.png)
 
 The OEA packages in this collection can be used to set up the data resources, stakeholder engagement, responsible AI processes, machine learning models, and dashboards that can identify patterns of supports needed and predict which individual students are likely to become in need of supports. The predictions can help education systems and schools choose the right methods of intervention to reduce or prevent student challenges and better support each student’s success. 
 
