@@ -18,25 +18,19 @@ The table below describes the use-cases that can be addressed through the OEA St
 
 ## Data Requirements (and OEA modules)
 
-The table below specifies stage 2 data <em><strong>(expected??)</em></strong> requirements that are considered <em><strong>(in theory or practice??)</em></strong> for the OEA Student Support packages.
+The table below outlines the type of data sources that are most often used to report and develop predictive models for each category of Student Supports. 
 
-<strong><em>Note: The assets provided within each of these use-case templates are general solutions. This means that they lean on specific modules out-of-the-box, but can be customized to incorporate the use of other modules or data sources.</em></strong>
+<strong><em>Note:  The assets provided within each of these use-case templates are general solutions. This means that they can use specific OEA modules, but they can also use other data sources that an education system or school has.</em></strong>
 
-| [Academic At-Risk](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Academic_At_Risk) | [Chronic Absenteeism](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism) | [Vulnerable Student](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Vulnerable_Students) |
+| [Chronic Absenteeism](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism) | [Academic At-Risk](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Academic_At_Risk) | [Vulnerable Student](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Vulnerable_Students) |
 | --- | --- | --- |
-| SIS Data: School, department, course/class rosters, class subject, grade level, race/ethnicity, other demographics | SIS Data: School, department, course/class rosters, class subject, grade level, race/ethnicity, other demographics | SIS Data: School, department, course/class rosters, class subject, grade level, race/ethnicity, other demographics |
-| School climate and teacher behaviors (e.g. substitutes) | School climate and teacher behaviors (e.g. substitutes) | School climate and teacher behaviors (e.g. substitutes) |
-| LMS Data (assignment grades, assignment engagement) |  LMS data (assignment grades, assignment engagement) |  |
-| Platform \& App signals (Clever, MS Graph, Edu Insights, iReady) | Platform \& App signals (Clever, MS Graph, Edu Insights, iReady) |  |
-| Social-emotional learning \& competencies data |  | Social-emotional learning \& competencies data | 
-| Online sentiment analysis |  | <strong><em>(Online??)</strong></em> Sentiment analysis |
-|  | Health, Medical, and Disabilities data | Health, Medical, and Disabilities data |
-|  | Social network data (if feasible) |  |
-|  | Behavior data |  |
-|  | Absence and absence code data |  |
-|  | Transportation and school-move data |  |
-|  | Safety and Justice system data |  |
-|  |  | Reflect data (Insights) |
+| SIS or MIS Data: Attendance, school, department, course rosters, class subject, grade level, student behavior, and demographics as needed | SIS or MIS Data: Attendance, school, department, course rosters, class subject, grade level, student behavior, and demographics as needed | SIS or MIS Data: Attendance, school, department, course rosters, class subject, grade level, student behavior, and demographics as needed |
+| School climate or student well-being data | School climate or student well-being data | School climate or student well-being data | 
+| LMS Data (assignment grades, assignment engagement, marks or grades) | LMS Data (assignment grades, assignment engagement, marks or grades) | LMS Data (assignment grades, assignment engagement, marks or grades) |
+| Digital learning platform & app use data | Digital learning platform & app use data | Digital learning platform & app use data |
+| Health, medical, and disabilities data | Health, medical, and disabilities data | Health, medical, and disabilities data |
+| Transportation and school-move data | | |
+| | | Safety and Justice system data |
 
 ## Package Assets
 
