@@ -48,13 +48,6 @@ The predictive model provided in this OEA package combines several data sources 
  </em>
  </p>
 
-![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Student%20Profile%20Dashboard.png)
- <p align="center">
- <em>
- (A student snapshot to provide real-time data to school and support staff) 
- </em>
- </p>
-
 ## Package Results/Solutions
 The "Predicting Chronic Absenteeism" Use-Case from OEA can be used by system or institutional leaders, school, or department leaders, support staff, and educators to:
  - More accurately identify which students are at risk of becoming chronically absent or may move to a higher tier of absence
