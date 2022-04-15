@@ -54,14 +54,11 @@ This package combines multiple data sources which were identified through resear
 
 This package can use several [OEA Modules](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules) to help ingest data sources that are typically used to understand patterns of chronic absenteeism (see below for list of relevant OEA modules).  
 
-| Dependency | Description |
+| OEA Module | Description |
 | --- | --- |
-| [Ed-Fi Data Standards](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Education_Data_Standards/Ed-Fi) | For typical SIS or MIS data, including detailed student attendance data, demographic data, and academic data. |
-| Microsoft digital engagement data | Such as Teams [Education Insights Premium](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Education_Insights_Premium), or [Microsoft Graph](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Graph) data; digital activity/engagement data. |
-| [Clever data](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/Clever) | For additional activity data from other education applications. |
-| [iReady data](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/iReady) | For language and math (summative) assessments, if iReady applications are used in your education system. |
-
-These OEA modules can be replaced with other types of data, and combined with other sources of data that the school or system has access to.
+| [Ed-Fi Data Standards](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Education_Data_Standards/Ed-Fi) | For typical Student Information System (SIS) data, including detailed student attendance, demographic, digital activity, and academic data. |
+| [Microsoft Digital Engagement](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data) | Such as M365 [Education Insights Premium](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Education_Insights_Premium), or [Microsoft Graph](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Graph) data. |
+| [Digital Learning Apps and Platforms] | [Clever](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/Clever) for learning ap data and [iReady](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/iReady) for language and math assessments and learning activities. |
 
 ## Package Components
 This Predicting Chronic Absenteeism package was developed by [Kwantum Analytics](https://www.kwantumanalytics.com/) in partnership with [Fresno Unified School District in California, USA](https://www.fresnounified.org/). The architecture and reference implementation for all modules is built on [Azure Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) - with [Azure Data Lake Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) as the storage backbone, and [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) providing the role-based access control.
