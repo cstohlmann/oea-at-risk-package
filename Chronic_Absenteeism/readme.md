@@ -30,10 +30,15 @@ Patterns of absenteeism  |  Strongest drivers of model predictions | School supp
 
 ## Machine Learning Approach
 
-Data: dep / indep variable
-Model: AutoML
-Explainations: InterpretML
-Fairness: PowerBI, Fairlearn
+The machine learning model learns from past student data to predict if a student will become chronically absent in the future. The model building and assessment is done in 5 main steps:
+
+1. <ins>Data collection:</ins> Select and aggregate data needed to train the model (described below)
+2. <ins>Feature engineering:</ins> Use education context to combine and normalize data.
+3. <ins>Model trianing:</ins> [AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml) is used to train a best model via [Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-machine-learning-studio). The best model is used to score the training dataset with predictions.
+4. <ins>Model prediction interpretations:</ins> The [AutoML Explainer](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability-automl) is used to identify which features are most impactful (called key drivers) on the best model predictions.
+5. <ins>Fairness and PowerBI:</ins> Training data, model predictions, and model explanations are combined with other data such as student demographics. The combined data is made ready for PowerBI consumption. PowerBI enables assessment of model quality, analysis of predictions and key drivers, and analysis of model fairness with respect to student demographics.
+
+See the Chronic Absenteeism Package [Documentation](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/docs) and [Pipelines](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/pipelines) for more details on model building.
 
 ## Data Sources
 
