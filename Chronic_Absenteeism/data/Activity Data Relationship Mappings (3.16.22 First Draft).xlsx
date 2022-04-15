@@ -57,14 +57,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>oea-at-risk-package/readme.md at main · cstohlmann/oea-at-risk-package</title>
-    <meta name="description" content="Development of the Fresno Chronic Absenteeism Package (under the &quot;Student Support&quot; package suite) for OEA prior to deployment on the OEA repo - oea-at-risk-package/readme.md at main · cstohlmann/oea-at-risk-package">
+  <title>oea-at-risk-package/Activity Data Relationship Mappings (3.16.22 First Draft).xlsx at main · cstohlmann/oea-at-risk-package</title>
+    <meta name="description" content="Development of the Fresno Chronic Absenteeism Package (under the &quot;Student Support&quot; package suite) for OEA prior to deployment on the OEA repo - oea-at-risk-package/Activity Data Relationship Mappings (3.16.22 First Draft).xlsx at main · cstohlmann/oea-at-risk-package">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/2354101ac8ad978a6bb1860ec60bc39ddb8fb6040440ad980ad32d0da8c7c998/cstohlmann/oea-at-risk-package" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="oea-at-risk-package/readme.md at main · cstohlmann/oea-at-risk-package" /><meta name="twitter:description" content="Development of the Fresno Chronic Absenteeism Package (under the &amp;amp;quot;Student Support&amp;amp;quot; package suite) for OEA prior to deployment on the OEA repo - oea-at-risk-package/readme.md at ma..." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/2354101ac8ad978a6bb1860ec60bc39ddb8fb6040440ad980ad32d0da8c7c998/cstohlmann/oea-at-risk-package" /><meta property="og:image:alt" content="Development of the Fresno Chronic Absenteeism Package (under the &amp;quot;Student Support&amp;quot; package suite) for OEA prior to deployment on the OEA repo - oea-at-risk-package/readme.md at main · cst..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="oea-at-risk-package/readme.md at main · cstohlmann/oea-at-risk-package" /><meta property="og:url" content="https://github.com/cstohlmann/oea-at-risk-package" /><meta property="og:description" content="Development of the Fresno Chronic Absenteeism Package (under the &amp;quot;Student Support&amp;quot; package suite) for OEA prior to deployment on the OEA repo - oea-at-risk-package/readme.md at main · cst..." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/2354101ac8ad978a6bb1860ec60bc39ddb8fb6040440ad980ad32d0da8c7c998/cstohlmann/oea-at-risk-package" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="oea-at-risk-package/Activity Data Relationship Mappings (3.16.22 First Draft).xlsx at main · cstohlmann/oea-at-risk-package" /><meta name="twitter:description" content="Development of the Fresno Chronic Absenteeism Package (under the &amp;amp;quot;Student Support&amp;amp;quot; package suite) for OEA prior to deployment on the OEA repo - oea-at-risk-package/Activity Data R..." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/2354101ac8ad978a6bb1860ec60bc39ddb8fb6040440ad980ad32d0da8c7c998/cstohlmann/oea-at-risk-package" /><meta property="og:image:alt" content="Development of the Fresno Chronic Absenteeism Package (under the &amp;quot;Student Support&amp;quot; package suite) for OEA prior to deployment on the OEA repo - oea-at-risk-package/Activity Data Relations..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="oea-at-risk-package/Activity Data Relationship Mappings (3.16.22 First Draft).xlsx at main · cstohlmann/oea-at-risk-package" /><meta property="og:url" content="https://github.com/cstohlmann/oea-at-risk-package" /><meta property="og:description" content="Development of the Fresno Chronic Absenteeism Package (under the &amp;quot;Student Support&amp;quot; package suite) for OEA prior to deployment on the OEA repo - oea-at-risk-package/Activity Data Relations..." />
     
 
 
@@ -72,12 +72,12 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/79111022/ws?session=eyJ2IjoiVjMiLCJ1Ijo3OTExMTAyMiwicyI6ODYxODUxODAxLCJjIjozMjcyOTQ0NzgyLCJ0IjoxNjUwMDI4ODQ5fQ==--9d33dc5a0c98b916c2f9eb864de915b7c243eb88fe981ef81e484b84b4fa8474" data-refresh-url="/_alive" data-session-id="0ca4a4b7aae6f4858c98fe3b36041cbdabdc797b59d3d89645743c1d918751a0">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/79111022/ws?session=eyJ2IjoiVjMiLCJ1Ijo3OTExMTAyMiwicyI6ODYxODUxODAxLCJjIjoyNTY2MTk4NjkwLCJ0IjoxNjUwMDI4ODU1fQ==--cd3f26b59d089fa1d5f98ccb442f32b1211dcd4ddea64453cebec4d10a247cd6" data-refresh-url="/_alive" data-session-id="0ca4a4b7aae6f4858c98fe3b36041cbdabdc797b59d3d89645743c1d918751a0">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
 
-  <meta name="request-id" content="F63B:0A4F:BD770:31AE81:6259712B" data-pjax-transient="true" /><meta name="html-safe-nonce" content="2c5bb9c9d9fde051e89c27f72aec9e5de48d3a1dd7df4870f4f30ad50adc0de6" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jc3RvaGxtYW5uL29lYS1hdC1yaXNrLXBhY2thZ2UvdHJlZS9tYWluL0Nocm9uaWNfQWJzZW50ZWVpc20vZGF0YV9kZXBlbmRlbmNpZXMiLCJyZXF1ZXN0X2lkIjoiRjYzQjowQTRGOkJENzcwOjMxQUU4MTo2MjU5NzEyQiIsInZpc2l0b3JfaWQiOiI0NDY4MzE4MzUzODYzNzA0OTQwIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="e5b8de2e7e078fc2965aa3647dfc0a162da0321aa1211f1993b97ce7fee9a8e5" data-pjax-transient="true" />
+  <meta name="request-id" content="F63B:0A4F:BD7AE:31AF70:62597131" data-pjax-transient="true" /><meta name="html-safe-nonce" content="2c5bb9c9d9fde051e89c27f72aec9e5de48d3a1dd7df4870f4f30ad50adc0de6" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jc3RvaGxtYW5uL29lYS1hdC1yaXNrLXBhY2thZ2UvdHJlZS9tYWluL0Nocm9uaWNfQWJzZW50ZWVpc20vZGF0YV9kZXBlbmRlbmNpZXMiLCJyZXF1ZXN0X2lkIjoiRjYzQjowQTRGOkJEN0FFOjMxQUY3MDo2MjU5NzEzMSIsInZpc2l0b3JfaWQiOiI0NDY4MzE4MzUzODYzNzA0OTQwIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="9d9a692ce71e41e14120ea589c158fc46f9ac5de6cdf351e79dab977a3bd363f" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:471135496" data-pjax-transient>
 
@@ -113,7 +113,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MDA0M2EyZDJkNjczYjZmNmMxNDc0YmRkYjM3YTEyMWY4MTAyZjQyMWYzOTUzOTExM2ZlYzI4MTQ2MDY3YzZmM3x7InJlbW90ZV9hZGRyZXNzIjoiMTM4LjQ5LjIxNi4yOCIsInJlcXVlc3RfaWQiOiJGNjNCOjBBNEY6QkQ3NzA6MzFBRTgxOjYyNTk3MTJCIiwidGltZXN0YW1wIjoxNjUwMDI4ODQ5LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="YWRhN2RjMGVjOTg5ZmNiOTlmNThiMDlkMDBmZWI1ZmNjOTMwZWFiYjc3MGE1NGUyMTU4NjZhZTQ3NDhiYjUxYnx7InJlbW90ZV9hZGRyZXNzIjoiMTM4LjQ5LjIxNi4yOCIsInJlcXVlc3RfaWQiOiJGNjNCOjBBNEY6QkQ3QUU6MzFBRjcwOjYyNTk3MTMxIiwidGltZXN0YW1wIjoxNjUwMDI4ODU1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -132,7 +132,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -224,7 +224,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="ETIhmEIxDXdc8TFIkODvQrkuCy-OrT8ttlkPtUB1K8cw7vIHhyXSpyJgyjbGliHFjyrCEF2e7E-jDEM7H27L1Q" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="ItCmNoWlYK-GvxTAEPBo2Gl4lDesjiZHkM9znLHXNx8DDHWpQLG_f_gu775GhqZfX3xdCH-99SWFmj8S7szXDQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -423,7 +423,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;cviddenKwantum&quot;,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="bca34673098736548b5532c82cad612d23a4f466cdc91c439d7e963e62e8cc96" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;cviddenKwantum&quot;,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="e50fe93212784eae7eecf603870bbc0fe380d43fd19e0795733d8a0b174c04db" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -431,7 +431,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/79111022?s=40&amp;v=4" width="20" height="20" alt="@cviddenKwantum" />
       cviddenKwantum
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="O5dgwMaoqmedlsUSGc34CckF2DpwCx3KHxol-ruBpPqb8OsKF5Jafq-tFuLfMSvRnhm4NSUXsg0e9IxqTZAzHA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kXBI5BGhIIqSYCiC-BVRLqqYP02knHkKbIor5Y__w-sxF8MuwJvQk6Bb-3I-6YL2_YRfQvGA1s1tZIJ1ee5UDQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -470,7 +470,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzkxMTEwMjIiLCJ0IjoxNjUwMDI4ODQ5fQ==--0118d4eea24ee4145c3dff22507505bb7fbd6ecdce0c5afbb71518f17701b64d">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzkxMTEwMjIiLCJ0IjoxNjUwMDI4ODU1fQ==--8a7c69c2cb579702146508cd72764eb0f129c2d06da7a56bffb95ca2281eac26">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -606,7 +606,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md
+      data-return-to=/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx
       data-user-id="79111022"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -619,10 +619,10 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="-ta8EnJlQfrzHQzTRi6GuTDdDkD0eKmgLiD7zc0qfO6NGnLwOUA0YHFM7obz3o3QtWgPxcuQGntUQwqDN-IeGw" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="O0FelupndnPnjME-YATHzSlKwwpUAyKxfVBGSHRjmDNMjZB0oUID6WXdI2vV9MykrP_Cj2vrkWoHM7cGjqv6xg" data-csrf="true" class="js-color-mode-csrf" />
 
       <input type="hidden" name="tab-size-path" id="tab-size-path" value="/settings/appearance/tab_size" class="js-tab-size-path" autocomplete="off" />
-      <input type="hidden" value="UA_YEANNklQwMpbrLOzg5VkixktVY6gM1pm01DDBznx0TVtPCuovzQtJR_esF4yF_BZxt3T6xM0_AXZ3xYAl4A" data-csrf="true" class="js-tab-size-csrf" />
+      <input type="hidden" value="7UCHYIS6CBg48Rj_njIn9IUDRxQzde3QPLEi-4hZgB3JAgQ_jR21gQOKyeMeyUuUIDfw6BLsgRHVKeBYfRhrgQ" data-csrf="true" class="js-tab-size-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1537,7 +1537,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="1bdf7e2b5477c365332d84cc03b9add8fdfe405f44e7286f59b04c72593226f1" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="10c266a3e9952a397681647b7089410027b6bd81c91315f1b00581555b80539a" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1590,7 +1590,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J8cTFadpglGSy4rfGAcXnW6QS4zaCbSDcYE9-TXBcCdhMi1QYExbyeWDy6DM6tOYLxeApwrRsS-x-djqTUFMdA" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oyLCUkeLWe-Qvceka3R_6IiE27YGuJZmLkVAjT8soJLl1_wXgK6Ad-f1htu_mbvtyQMQndZgk8ruPaWeR6ycwQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="471135496">
 
@@ -1718,7 +1718,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vT2aX9d3wkN_48uNquaD9kNsX-KmtuuZ2Yi46nwI8zL7yKQaEFIb2wirivJ-C0fzAuuUyXZu7jUZ8F35BIjPYQ" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="E018Hw1dIIa8cqT_Ct2JnbPzB0815fOe0S-3ZWpZhP9VuEJaynj5Hss65YDeME2Y8nTMZOU99jIRV1J2Etm4rA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="471135496">
 
@@ -1865,7 +1865,7 @@
   </li>
 
   <li>
-            <a href="/cstohlmann/oea-at-risk-package/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="ea1daa0e6bf04543c8e8758c9452560c972ce13f04231fcebd8ffba5ecd45492" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of cstohlmann/oea-at-risk-package" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <a href="/cstohlmann/oea-at-risk-package/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="63f24f371e36ee92c6a4fdc53a12a801420735da9f45b4c12506d8b7d74de63b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of cstohlmann/oea-at-risk-package" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="1" data-view-component="true" class="Counter">1</span>
@@ -1894,19 +1894,19 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container on BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/cstohlmann/oea-at-risk-package/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iv7dtRUh5xl-f7u8hIf15miHJIWw2rsgVAEdsr4jFEBaF0rhpLOQapgalrOe7IZD7y0UNu1apRhqfOVHVSJ5Ag" autocomplete="off" />
-        <input type="hidden" value="gpjcCxaxE-1DkTKqtIRVC9dT_VhlL7Cahc8ROWGj7PdScUtfpyNknqX0H6Wu7yauUPnN6zivrqK7sunMiqKBtQ" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/cstohlmann/oea-at-risk-package/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2MasaIa0xcqfwUysv8rwIXjolZlMAfhTWO78jYmnV4YILzs8NyayuXmkYaOloYOE_0KlKhGB5mtmkwR4YqY6xA" autocomplete="off" />
+        <input type="hidden" value="xHojrcv7s4TIA4EKbQu4pppgJWYz4BrXW1y5OPPheKYUk7T5emnE9y5mrAV3YMsDHcoV1W5gBO9lIUHNGOAV5A" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="5f72969f90c4f18cb447d88fe5d3c04c73cba111e2da3c873ab466b06ad57fcd" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="cb364b1eda21d4a97805e70fb54d2f90fc2b56d1aa8f348168defe0ce8dc93ff" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="1 user starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="1" data-view-component="true" class="Counter js-social-count">1</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/cstohlmann/oea-at-risk-package/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mU9-7-chcwdpgPLdKaDYOYFfVJI64RtiEhvsGjI1G7TJ1t8dY9er-Cgbv3pezDKnS3R54kRMjsI_SbeiPlNSHQ" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/cstohlmann/oea-at-risk-package/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ojlLcM8_DdWoNGFkIuzAq1su4mUBydbpWtMfcDknJMDyoOqCS8nVKumvLMNVgCo1kQXPFX9kQ0l3gUTINUFtaQ" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="9b8cdda719ee67d3b9cf2e5f2ec0582f654e89e518204d5081e98088df96dc13" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="0588ac7398483b2d169eafb8aa0567a030b1624a313a70e22d2c2a4f40fba09b" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1927,13 +1927,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4948c7">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4108b7">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-4948c7"
+        id="filter-menu-4108b7"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2136,7 +2136,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/cstohlmann/oea-at-risk-package/blob/f3a63e8e2a61b83c9b645132a063fcdb5ef1064f/Chronic_Absenteeism/data_dependencies/readme.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/cstohlmann/oea-at-risk-package/blob/f3a63e8e2a61b83c9b645132a063fcdb5ef1064f/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2206,10 +2206,10 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/cstohlmann/oea-at-risk-package/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="C3O3totz7PH0vbUNMa27vE7u0eZpiYrlOYGtxpHTCQjxUQGa19-0SeV2xcs0P-xiOWhSABLrdWCSsed6jdUnNA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/cstohlmann/oea-at-risk-package/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_klB3zKGK5TzTYecIP3t7n5r9IH2Xl4XEVoCx6RgJTUEa_fzbipzLOKG91olb7owCe13Z408oZK6akh7uGYLCQ" />
       <input type="hidden" name="name" value="{{ refName }}">
       <input type="hidden" name="branch"  value="main">
-      <input type="hidden" name="path_binary" value="Q2hyb25pY19BYnNlbnRlZWlzbS9kYXRhX2RlcGVuZGVuY2llcy9yZWFkbWUubWQ=">
+      <input type="hidden" name="path_binary" value="Q2hyb25pY19BYnNlbnRlZWlzbS9kYXRhX2RlcGVuZGVuY2llcy9BY3Rpdml0eSBEYXRhIFJlbGF0aW9uc2hpcCBNYXBwaW5ncyAoMy4xNi4yMiBGaXJzdCBEcmFmdCkueGxzeA==">
 
       <button class="SelectMenu-item wb-break-word" type="submit" role="menuitem" data-index="{{ index }}">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
@@ -2233,7 +2233,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/cstohlmann/oea-at-risk-package/blob/{{ urlEncodedRefName }}/Chronic_Absenteeism/data_dependencies/readme.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/cstohlmann/oea-at-risk-package/blob/{{ urlEncodedRefName }}/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2273,7 +2273,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/cstohlmann/oea-at-risk-package/blob/{{ urlEncodedRefName }}/Chronic_Absenteeism/data_dependencies/readme.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/cstohlmann/oea-at-risk-package/blob/{{ urlEncodedRefName }}/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2304,7 +2304,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/cstohlmann/oea-at-risk-package"><span>oea-at-risk-package</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism"><span>Chronic_Absenteeism</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/data_dependencies"><span>data_dependencies</span></a></span><span class="separator">/</span><strong class="final-path">readme.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/cstohlmann/oea-at-risk-package"><span>oea-at-risk-package</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism"><span>Chronic_Absenteeism</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/data_dependencies"><span>data_dependencies</span></a></span><span class="separator">/</span><strong class="final-path">Activity Data Relationship Mappings (3.16.22 First Draft).xlsx</strong>
   </h2>
   <a href="/cstohlmann/oea-at-risk-package/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
   
@@ -2317,7 +2317,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="a96bddfa833a539005637dc4aa3fb4c767c183d5214c0fe6249f8d14dc2a8a72" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/cstohlmann/oea-at-risk-package/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="c2f9f4133b730c5c82d62f53c539dc59928fcca5be072d25ea7021c4d3055584" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/cstohlmann/oea-at-risk-package/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2330,13 +2330,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Chronic_Absenteeism/data_dependencies/readme.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Chronic_Absenteeism/data_dependencies/Activity Data Relationship Mappings (3.16.22 First Draft).xlsx" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/cstohlmann/oea-at-risk-package/blob/f3a63e8e2a61b83c9b645132a063fcdb5ef1064f/Chronic_Absenteeism/data_dependencies/readme.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/cstohlmann/oea-at-risk-package/blob/f3a63e8e2a61b83c9b645132a063fcdb5ef1064f/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2368,80 +2368,17 @@
     <include-fragment src="/cstohlmann/oea-at-risk-package/spoofed_commit_check/f3a63e8e2a61b83c9b645132a063fcdb5ef1064f" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/cstohlmann/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cstohlmann"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/89793236?s=48&amp;v=4" width="24" height="24" alt="@cstohlmann" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/cstohlmann/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cstohlmann">cstohlmann</a>
+  <include-fragment src="/cstohlmann/oea-at-risk-package/contributors/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="Update readme.md" class="Link--secondary" href="/cstohlmann/oea-at-risk-package/commit/a28ed09177cc783368009f6fc1190982c7d7d6ee">Update readme.md</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/cstohlmann/oea-at-risk-package/commit/a28ed09177cc783368009f6fc1190982c7d7d6ee/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/cstohlmann/oea-at-risk-package/commit/a28ed09177cc783368009f6fc1190982c7d7d6ee" data-pjax>a28ed09</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-04-13T20:44:18Z" class="no-wrap">Apr 13, 2022</relative-time></span>
-          </span>
-
-          <a data-pjax href="/cstohlmann/oea-at-risk-package/commits/main/Chronic_Absenteeism/data_dependencies/readme.md" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/cstohlmann/oea-at-risk-package/contributors-list/main/Chronic_Absenteeism/data_dependencies/readme.md" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2453,78 +2390,32 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}"
-  data-menu-hydro-click-hmac="b8554a1abec5257f2cd21df7eb926f66e337fc6ee2ee1a4c7aeea5b6b4a56f94"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="471ebe269922f8446c1c9f82681191d82dfa48123f85c9270b793b6b59bd66e1" href="#data-dependencies">Data Dependencies</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="471ebe269922f8446c1c9f82681191d82dfa48123f85c9270b793b6b59bd66e1" href="#moduledata-source-dependencies">Module/Data Source Dependencies</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="471ebe269922f8446c1c9f82681191d82dfa48123f85c9270b793b6b59bd66e1" href="#notes-and-planning-for-v10-activity-relationship-table">Notes and Planning for v1.0 Activity Relationship Table:</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="471ebe269922f8446c1c9f82681191d82dfa48123f85c9270b793b6b59bd66e1" href="#first-draft-concepts">First-Draft Concepts:</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="471ebe269922f8446c1c9f82681191d82dfa48123f85c9270b793b6b59bd66e1" href="#references">References:</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      84 lines (69 sloc)
-      <span class="file-info-divider"></span>
-    4.32 KB
+    12.3 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-    <a href="/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md?plain=1" data-permalink-href="/cstohlmann/oea-at-risk-package/blob/f3a63e8e2a61b83c9b645132a063fcdb5ef1064f/Chronic_Absenteeism/data_dependencies/readme.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-  
-</a>    <a href="/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md" data-permalink-href="/cstohlmann/oea-at-risk-package/blob/f3a63e8e2a61b83c9b645132a063fcdb5ef1064f/Chronic_Absenteeism/data_dependencies/readme.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
-</svg>
-  
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-      <a data-permalink-href="/cstohlmann/oea-at-risk-package/raw/f3a63e8e2a61b83c9b645132a063fcdb5ef1064f/Chronic_Absenteeism/data_dependencies/readme.md" href="/cstohlmann/oea-at-risk-package/raw/main/Chronic_Absenteeism/data_dependencies/readme.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-  
-</a>        <a data-permalink-href="/cstohlmann/oea-at-risk-package/blame/f3a63e8e2a61b83c9b645132a063fcdb5ef1064f/Chronic_Absenteeism/data_dependencies/readme.md" href="/cstohlmann/oea-at-risk-package/blame/main/Chronic_Absenteeism/data_dependencies/readme.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+      <a data-permalink-href="/cstohlmann/oea-at-risk-package/raw/f3a63e8e2a61b83c9b645132a063fcdb5ef1064f/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx" href="/cstohlmann/oea-at-risk-package/raw/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Download
   
 </a>    </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/cstohlmann/oea-at-risk-package?branch=main&amp;filepath=Chronic_Absenteeism%2Fdata_dependencies%2Freadme.md"
+             href="x-github-client://openRepo/https://github.com/cstohlmann/oea-at-risk-package?branch=main&amp;filepath=Chronic_Absenteeism%2Fdata_dependencies%2FActivity%20Data%20Relationship%20Mappings%20%283.16.22%20First%20Draft%29.xlsx"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2532,42 +2423,7 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/cstohlmann/oea-at-risk-package/raw/main/Chronic_Absenteeism/data_dependencies/readme.md" data-action="click:remote-clipboard-copy#remoteCopy">
-  
-
-
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="c19db0401e96063447c6a345fd5c57cf7c1195d71edaf43d97dc7cd5c0af56a5" aria-label="Copy raw contents">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
-    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
-</svg>
-</span></span>
-  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">            <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-</span>
-  <span data-target="remote-clipboard-copy.success" hidden="hidden">            <span class="tooltipped tooltipped-nw" aria-label="Copied!">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-            </span>
-</span>
-  <span data-target="remote-clipboard-copy.error" hidden="hidden">            <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
-    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
-</svg>
-            </span>
-</span>
-</remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/cstohlmann/oea-at-risk-package/edit/main/Chronic_Absenteeism/data_dependencies/readme.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gseZVAODfF-G7qNELmABKteTDZq-F2Ute8R05bqDxNvPgjVLeup4G3z0EytIqssUrmZb2ktLMwA5E6shggW-KQ" />
-            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Edit this file" data-hotkey="e" data-disable-with>
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
-    <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
-</svg>
-            </button>
-</form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/cstohlmann/oea-at-risk-package/delete/main/Chronic_Absenteeism/data_dependencies/readme.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aKjmSUtqs9N1DZFs9PNkuGVGViFyGVmwwLKggR9214Xd48-ajMUi3ErhuoMB1fhwi9g9a7lBmvivyNIGyKhWhQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/cstohlmann/oea-at-risk-package/delete/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ezXF7Zpm3K6C2PnVY6wx61vWtg7ULEGocZAjHaVh94aOYeHFjd5Q7yDNHbh1m8TiFC47IfpJ8-sdkg8JSO4b7g" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2579,7 +2435,7 @@
 
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
-        <summary class="btn-octicon p-2" aria-haspopup="true" aria-label="possible actions">
+        <summary class="btn-octicon" aria-haspopup="true" aria-label="possible actions">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
 </svg>
@@ -2589,189 +2445,33 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/cstohlmann/oea-at-risk-package?branch=main&amp;filepath=Chronic_Absenteeism%2Fdata_dependencies%2Freadme.md"
+                   href="x-github-client://openRepo/https://github.com/cstohlmann/oea-at-risk-package?branch=main&amp;filepath=Chronic_Absenteeism%2Fdata_dependencies%2FActivity%20Data%20Relationship%20Mappings%20%283.16.22%20First%20Draft%29.xlsx"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/cstohlmann/oea-at-risk-package/raw/main/Chronic_Absenteeism/data_dependencies/readme.md">
-              View raw
+            <a class="dropdown-item" href="/cstohlmann/oea-at-risk-package/raw/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx">
+              Download
             </a>
           </li>
-            <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/cstohlmann/oea-at-risk-package/raw/main/Chronic_Absenteeism/data_dependencies/readme.md" data-action="click:remote-clipboard-copy#remoteCopy">
-  
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:471135496,&quot;originating_url&quot;:&quot;https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/readme.md&quot;,&quot;user_id&quot;:79111022}}" data-hydro-click-hmac="c19db0401e96063447c6a345fd5c57cf7c1195d71edaf43d97dc7cd5c0af56a5">
-                    Copy raw contents
-</span></span>
-  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
-                  <span class="d-inline-block position-relative" style="top: 3px">
-                    <svg aria-label="fetching contents…" style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-                  </span>
-</span>
-  <span data-target="remote-clipboard-copy.success" hidden="hidden">                  Copy raw contents
-                  <svg aria-label="Copied!" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-</span>
-  <span data-target="remote-clipboard-copy.error" hidden="hidden">                  Copy raw contents
-                  <svg aria-label="Something went wrong. Try again." role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
-    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
-</svg>
-</span>
-</remote-clipboard-copy>            </li>
-            <li>
-              <a class="dropdown-item" href="/cstohlmann/oea-at-risk-package/blame/main/Chronic_Absenteeism/data_dependencies/readme.md">
-                View blame
-              </a>
-            </li>
-
-              <li class="dropdown-divider" role="none"></li>
-              <li>
-                <a class="dropdown-item" href="/cstohlmann/oea-at-risk-package/edit/main/Chronic_Absenteeism/data_dependencies/readme.md">Edit file</a>
-              </li>
-              <li>
-                <a class="dropdown-item menu-item-danger" href="/cstohlmann/oea-at-risk-package/delete/main/Chronic_Absenteeism/data_dependencies/readme.md">Delete file</a>
-              </li>
         </ul>
       </details>
     </div>
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-data-dependencies" class="anchor" aria-hidden="true" href="#data-dependencies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Data Dependencies</h1>
-<p dir="auto">This section of the package provides details regarding the schema changes made during data curation for the Power BI dashboard, and how other data sources or modules can be modified and used in place of other modules used out-of-the-box.</p>
-<ul dir="auto">
-<li><strong>(Current) schema changes to be noted:</strong> Activity table(s).</li>
-<li><strong>Module/Data source initially used:</strong> Education Insights Activity table.</li>
-<li><strong>Data products created:</strong> Activity tables <em>(i.e. Event, SoftwareApplication, and AggregateMeasure)</em>.</li>
-</ul>
-<p align="center" dir="auto">
- <em><strong>
- [CONSIDER ADDING PICTURE OF SCHEMA/COLUMN MAPPINGS] 
-  </strong></em>
- </p>
-<h2 dir="auto"><a id="user-content-moduledata-source-dependencies" class="anchor" aria-hidden="true" href="#moduledata-source-dependencies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Module/Data Source Dependencies</h2>
-<p dir="auto">The data sources most frequently needed and used for developing insights into Chronic Absenteeism include:</p>
-<ul dir="auto">
-<li>SIS or MS Data: Attendance, school, department, course rosters, class's subject, grade level, student behavior, and demographics as needed</li>
-<li>School climate or student well-being data</li>
-<li>LMS Data (assignment grades, assignment engagement, marks or grades)</li>
-<li>Digital learning platform &amp; app use data</li>
-<li>Health, medical, and disabilities data</li>
-<li>Transportation and school-move data</li>
-</ul>
-<p dir="auto">For the Chronic Absenteeism Use Case developed with Fresno Unified, several OEA modules were used:</p>
-<ol dir="auto">
-<li>Student Information System (SIS) Data module using <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Education_Data_Standards/Ed-Fi">Ed-Fi Data Standard Module</a>,</li>
-<li><a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Education_Insights_Premium">Microsoft Education Insights Module</a> for LMS Data,</li>
-<li><a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/iReady">iReady</a> for student outcome data, and</li>
-<li><a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Digital_Learning_Apps_and_Platforms/Clever">Clever</a> for other digital learning app use data.</li>
-</ol>
-<h2 dir="auto"><a id="user-content-notes-and-planning-for-v10-activity-relationship-table" class="anchor" aria-hidden="true" href="#notes-and-planning-for-v10-activity-relationship-table"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Notes and Planning for v1.0 Activity Relationship Table:</h2>
-<h3 dir="auto"><a id="user-content-first-draft-concepts" class="anchor" aria-hidden="true" href="#first-draft-concepts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>First-Draft Concepts:</h3>
-<p dir="auto"><em> Currently, thinking of using 3 first-draft relationship tables </em></p>
-<ol dir="auto">
-<li>
-<p dir="auto">Event Class/Table <strong>(USING THIS ONE)</strong>:</p>
-<p dir="auto">Current idea is to use this as basic, fast first iteration. Column assignments/details:</p>
-</li>
-</ol>
-<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="    1. id - (column SignalID from Insights Activity table)
-    2. type - ToolUseEvent class... [MAPS TO TABLE 2 BELOW]
-    3. actor - (column AadId from Insights Roster table|column ActorId from Insights Activity table)
-    4. action - Used
-    5. object - SoftwareApp class (AppNames column from Insights Activity table)
-    6. eventTime - TimeStamp Type
-    7. generated - AggregateMeasures class... [MAPS TO TABLE 4 BELOW]
-    8. edApp - (thinking might use column AppName from Insights Activity table; if we create a single SoftwareApp item, being &quot;Insights&quot;)"><pre class="notranslate"><code class="notranslate">    1. id - (column SignalID from Insights Activity table)
-    2. type - ToolUseEvent class... [MAPS TO TABLE 2 BELOW]
-    3. actor - (column AadId from Insights Roster table|column ActorId from Insights Activity table)
-    4. action - Used
-    5. object - SoftwareApp class (AppNames column from Insights Activity table)
-    6. eventTime - TimeStamp Type
-    7. generated - AggregateMeasures class... [MAPS TO TABLE 4 BELOW]
-    8. edApp - (thinking might use column AppName from Insights Activity table; if we create a single SoftwareApp item, being "Insights")
-</code></pre></div>
-<ol start="2" dir="auto">
-<li>SoftwareApplication Class/Table <strong>(USING THIS ONE)</strong>:</li>
-</ol>
-<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="    1. type (&quot;Term&quot; Type) - 
-    2. host (String Type) - 
-    3. ipAddress (String Type) - 
-    4. userAgent (String Type) - 
-    5. version (String Type) - (column schemaVersion from Insights Activity table)"><pre class="notranslate"><code class="notranslate">    1. type ("Term" Type) - 
-    2. host (String Type) - 
-    3. ipAddress (String Type) - 
-    4. userAgent (String Type) - 
-    5. version (String Type) - (column schemaVersion from Insights Activity table)
-</code></pre></div>
-<ol start="3" dir="auto">
-<li>ToolUseEvent Table <strong>(IGNORE THIS TABLE FOR NOW)</strong>:</li>
-</ol>
-<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="    1. Event - ToolUseEvent
-    2. Actor - StudentId
-    3. Action - Used
-    4. Object - SoftwareApplication
-    5. Generated - AggregateMeasureCollection"><pre class="notranslate"><code class="notranslate">    1. Event - ToolUseEvent
-    2. Actor - StudentId
-    3. Action - Used
-    4. Object - SoftwareApplication
-    5. Generated - AggregateMeasureCollection
-</code></pre></div>
-<ol start="4" dir="auto">
-<li>AggregateMeasure Class/Table <strong>(USING THIS ONE)</strong></li>
-</ol>
-<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="    1. type
-    2. metricValue - (column meetingDuration from Insights Activity table)"><pre class="notranslate"><code class="notranslate">    1. type
-    2. metricValue - (column meetingDuration from Insights Activity table)
-</code></pre></div>
-<ol start="5" dir="auto">
-<li>
-<p dir="auto">Action Class/Table <strong>(TO BE ADDED IN FUTURE DRAFTS??)</strong></p>
-<p dir="auto"><em><strong>[TO BE ADDED]</strong></em></p>
-<p dir="auto">Intention would be to add this additional table to discern the various SignalTypes from various Apps (making the data served to PowerBI more granular).</p>
-</li>
-</ol>
-<h3 dir="auto"><a id="user-content-references" class="anchor" aria-hidden="true" href="#references"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>References:</h3>
-<table>
-<thead>
-<tr>
-<th>Resource</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://www.imsglobal.org/spec/caliper/v1p2#ToolUseEvent" rel="nofollow">ToolUseEvent Table</a></td>
-<td>Information and specs on ToolUseEvent table.</td>
-</tr>
-<tr>
-<td><a href="https://www.imsglobal.org/spec/caliper/v1p2#Event" rel="nofollow">Event Class/Table</a></td>
-<td>Information and specs on Event class.</td>
-</tr>
-<tr>
-<td><a href="https://www.imsglobal.org/spec/caliper/v1p2#softwareapplication" rel="nofollow">SoftwareApplication Class/Table</a></td>
-<td>Information and specs on SoftwareApplication class.</td>
-</tr>
-<tr>
-<td><a href="https://www.imsglobal.org/spec/caliper/v1p2#AggregateMeasureCollection" rel="nofollow">AggregationMeasure Class/Table</a></td>
-<td>Information and specs on Aggregation Measure</td>
-</tr>
-</tbody>
-</table>
-</article>
+      
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
+
+      <div class="text-center p-3">
+          <a href="/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/data_dependencies/Activity%20Data%20Relationship%20Mappings%20(3.16.22%20First%20Draft).xlsx?raw=true">View raw</a>
+      </div>
   </div>
 
     </div>
 
-  </readme-toc>
 
   
 
