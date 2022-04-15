@@ -44,7 +44,10 @@ See the Chronic Absenteeism Package [Documentation](https://github.com/cstohlman
 
 This package combines multiple data sources which were identified through research as strongly related to absenteeism: 
 * School Information System (SIS) data:
-+ Student school, grade, and roster data
+  + Student school, grade, and roster data
+* Beha
+
+
  - student patterns of academic digital engagement (both inside and outside school),
  - demographic data, 
  - academic data, 
