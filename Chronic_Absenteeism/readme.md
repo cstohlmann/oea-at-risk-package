@@ -18,9 +18,11 @@ Machine learning models offer the potential to find patterns of absenteeism acro
 This package was developed in collaboration with [Fresno Unified School District](https://www.fresnounified.org/) in Fresno, California and already has created an impact (see the [Use Case Documentation](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/OEA%20Chronic%20Absenteeism%20Package%20-%20Use%20Case%20Documentation.pdf) for details). 
 
 In general, this package can be used by system or institutional leaders, school, or department leaders, support staff, and educators to:
- - More accurately identify which students are at risk of becoming chronically absent or may move to a higher tier of absence
- - More quickly understand what type of support resources or interventions might be most effective to prevent or reduce absenteeism with individual students
- - Provide a real-time and detailed snapshot of students who are at risk of higher level of absence to school support staff to guide their decisions and actions based on engagement, academic, and well-being patterns of that student. 
+ - <em> accurately identify </em> which students are at risk of becoming chronically absent or may move to a higher tier of absence
+ - <em> quickly understand </em> what type of support resources or interventions might be most effective to prevent or reduce absenteeism with individual students
+ - <em> guide decision making </em> of school support staff by providing a real-time and detailed snapshot of students who are at risk of higher level of absence based on engagement, academic, and well-being patterns of that student. 
+
+## Machine Learning Model
 
 ## Data Sources
 
