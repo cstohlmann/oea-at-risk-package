@@ -22,6 +22,19 @@ In general, this package can be used by system or institutional leaders, school,
  - <em> quickly understand </em> what type of support resources or interventions might be most effective to prevent or reduce absenteeism with individual students
  - <em> guide decision making </em> of school support staff by providing a real-time and detailed snapshot of students who are at risk of higher level of absence based on engagement, academic, and well-being patterns of that student. 
 
+See below for examples of developed PowerBI dashboards.
+
+Patterns of absenteeism by school, grade, geographic location, absence reason, and over time             |  A predictive model of potentially chronically absent students, that identifies the most likely reason (i.e. Drivers) why a student is predicted to become chronically absent
+:-------------------------:|:-------------------------:
+![](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Dashboard%20Overview.png)  |  ![](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Drivers%20Dashboard.png)
+
+![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Social%20Worker%20Dashboard.png)
+ <p align="center">
+ <em>
+ (A school-level dashboard for school support staff to quickly identify which students are at risk of becoming chronically absent, and for what reasons) 
+ </em>
+ </p>
+
 ## Machine Learning Approach
 
 Data: dep / indep variable
@@ -65,26 +78,7 @@ Assets in the Chronic Absenteeism use-case include:
 
 This data was combined to provided insights into:
 
-![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Dashboard%20Overview.png)
- <p align="center">
- <em>
- (Patterns of absenteeism by school, grade, geographic location, absence reason, and over time) 
- </em>
- </p>
- 
-![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Drivers%20Dashboard.png)
-  <p align="center">
- <em>
- (A predictive model of potentially chronically absent students, that identifies the most likely reason (i.e. Drivers) why a student is predicted to become chronically absent) 
- </em>
- </p>
 
-![alt text](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Social%20Worker%20Dashboard.png)
- <p align="center">
- <em>
- (A school-level dashboard for school support staff to quickly identify which students are at risk of becoming chronically absent, and for what reasons) 
- </em>
- </p>
 
 # Legal Notices
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), see the [LICENSE](https://github.com/microsoft/OpenEduAnalytics/blob/main/LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the [LICENSE-CODE](https://github.com/microsoft/OpenEduAnalytics/blob/main/LICENSE-CODE) file.
