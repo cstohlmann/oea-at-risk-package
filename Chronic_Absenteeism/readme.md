@@ -2,26 +2,25 @@
 
 The OEA Chronic Absenteeism Package provides a set of assets which support an education system in developing their own predictive model to address chronic absenteeism. There are two main components of this package:
 
-1. <ins>Guidance and documentation:</ins> The [OEA Chronic Absenteeism Package - Use Case Documentation](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/OEA%20Chronic%20Absenteeism%20Package%20-%20Use%20Case%20Documentation.pdf) provides guidance on the end-to-end process of developing a successful Chronic Absenteeism use case project, including how to engage stakeholders in the project, prior research on the use case problem domain and theory, how to map data sources to the theory of the problem, and how to implement principals of responsible data and AI in the process of predictive modelling.
-2. <ins>Technical assets:</ins> Various assets are freely available in this package to help accelerate implementation of 
+1. <ins>Guidance and documentation:</ins> The [OEA Chronic Absenteeism Package - Use Case Documentation](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/OEA%20Chronic%20Absenteeism%20Package%20-%20Use%20Case%20Documentation.pdf) provides guidance on the end-to-end process of developing a successful Chronic Absenteeism use case project, including how to engage stakeholders in the project, prior research on the use case problem domain and theory, how to map data sources to the theory of the problem, and how to implement Microsoft’s Principles of Responsible Data and AI in the process of predictive modelling. <em> It is highly recommended this document be reviewed by any education system considering using this package, and that the documentation be revised to the specific data and decisions for that system’s context.  </em>
+2. <ins>Technical assets:</ins> Various assets are freely available in this package to help accelerate implementation of Chronic Absenteeism use cases. Assets include descriptions of data sources, notebooks for data processing, a pipeline for ML model building and deployment, and sample PowerBI dashboards.
 
 This OEA Package was developed through a partnership between Microsoft Education, [Kwantum Analytics](https://www.kwantumanalytics.com/), and [Fresno Unified School District](https://www.fresnounified.org/) in Fresno, California.
 
 ## Problem Statement
 
-Chronic absenteeism is generally defined as a student missing 10% or more of instructional time in school. Student absenteeism is a fundamental challenge to education systems, and it permeates education policy and practice discussions even more as result of the global pandemic. Machine learning offers the potential to find patterns of absenteeism across student demographic, attendance, engagement, achievement, and social-emotional measures to predict students at risk of becoming chronically absent so that proactive and preventative interventions can be utilized to support students.  
-
-Education systems are responsible for addressing student absenteeism and can use a predictive model to focus resources to more precisely support students who are on a trajectory leading to chronic absenteeism, identify the best interventions to prevent absenteeism, and ultimately reduce absenteeism.  
+Chronic absenteeism is generally defined as a student missing 10% or more of a school year. Student absenteeism is a fundamental challenge for education systems which has increased as result of the global pandemic. Machine learning models offer the potential to find patterns of absenteeism across student attendance patterns, class engagement, academic achievement, demographics, social-emotional measures and more. Predictions of students at risk of becoming chronically absent allows for targetted support of these students students.  A predictive model can be used to precisely focus resources to support students who are on the trajectory of chronic absenteeism, identify the best interventions to prevent absenteeism, and ultimately reduce absenteeism.  
 
 ## Package Impact
-The "Predicting Chronic Absenteeism" Use-Case from OEA can be used by system or institutional leaders, school, or department leaders, support staff, and educators to:
+
+This package was developed in collaboration with [Fresno Unified School District](https://www.fresnounified.org/) in Fresno, California and already has created an impact (see the [Use Case Documentation](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/OEA%20Chronic%20Absenteeism%20Package%20-%20Use%20Case%20Documentation.pdf) for details). 
+
+In general, this package can be used by system or institutional leaders, school, or department leaders, support staff, and educators to:
  - More accurately identify which students are at risk of becoming chronically absent or may move to a higher tier of absence
- - More quickly understand what type of support resources or interventions might be most appropriate to prevent or reduce absenteeism with individual students
- - Provide a real-time and detailed snapshot of students who are at risk of higher level of absence to school support staff to guide their decisions and actions based on engagement, academic, and well-being patterns of that student.
+ - More quickly understand what type of support resources or interventions might be most effective to prevent or reduce absenteeism with individual students
+ - Provide a real-time and detailed snapshot of students who are at risk of higher level of absence to school support staff to guide their decisions and actions based on engagement, academic, and well-being patterns of that student. 
 
 ## Data Sources
-
-The full Use-Case documentation for Predicting Chronic Absenteeism is [here](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/OEA%20Chronic%20Absenteeism%20Package%20-%20Use%20Case%20Documentation.pdf). This document provides prior research on Chronic Absenteeism and a description of the process and decision-making for developing this use case in a way that demonstrates Microsoft’s Principles of Responsible Data and AI. It is highly recommended this document be reviewed by any education system considering using this package, and that the documentation be revised to the specific data and decisions for that system’s context. 
 
 The predictive model provided in this OEA package combines several data sources identified through prior research to be strongly related to absenteeism: 
  - detailed student data, 
