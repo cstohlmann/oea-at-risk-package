@@ -22,11 +22,16 @@ In general, this package can be used by system or institutional leaders, school,
  - <em> quickly understand </em> what type of support resources or interventions might be most effective to prevent or reduce absenteeism with individual students
  - <em> guide decision making </em> of school support staff by providing a real-time and detailed snapshot of students who are at risk of higher level of absence based on engagement, academic, and well-being patterns of that student. 
 
-## Machine Learning Model
+## Machine Learning Approach
+
+Data: dep / indep variable
+Model: AutoML
+Explainations: InterpretML
+Fairness: PowerBI, Fairlearn
 
 ## Data Sources
 
-The predictive model provided in this OEA package combines several data sources identified through prior research to be strongly related to absenteeism: 
+This pacackage combines multiple data identified through prior research to be strongly related to absenteeism: 
  - detailed student data, 
  - student patterns of academic digital engagement (both inside and outside school),
  - demographic data, 
