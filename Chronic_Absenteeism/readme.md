@@ -42,8 +42,9 @@ See the Chronic Absenteeism Package [Documentation](https://github.com/cstohlman
 
 ## Data Sources
 
-This package combines multiple data identified through prior research to be strongly related to absenteeism: 
- - detailed student data, 
+This package combines multiple data sources which were identified through research as strongly related to absenteeism: 
+* School Information System (SIS) data:
++ Student school, grade, and roster data
  - student patterns of academic digital engagement (both inside and outside school),
  - demographic data, 
  - academic data, 
@@ -73,10 +74,6 @@ Assets in the Chronic Absenteeism use-case include:
 3. [Notebooks](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/notebooks): For cleaning, processing, anonymizing/pseudonymizing, and curating data within the data lake.
 4. [Pipelines](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/pipelines): For an overarching picture of the processes used to create/train the machine learning model, and push respective data points to the dashboard template(s).
 5. [PowerBI templates](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/powerbi): For exploring, visualizing, and deriving insights from the data.
-
-This data was combined to provided insights into:
-
-
 
 # Legal Notices
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), see the [LICENSE](https://github.com/microsoft/OpenEduAnalytics/blob/main/LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the [LICENSE-CODE](https://github.com/microsoft/OpenEduAnalytics/blob/main/LICENSE-CODE) file.
