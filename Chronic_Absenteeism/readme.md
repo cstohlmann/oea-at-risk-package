@@ -24,7 +24,7 @@ In general, this package can be used by system or institutional leaders, school,
 
 See below for examples of developed PowerBI dashboards.
 
-Patterns of absenteeism by school, grade, geographic location, absence reason, and over time             |  A predictive model of potentially chronically absent students, that identifies the most likely reason (i.e. Drivers) why a student is predicted to become chronically absent | A school-level dashboard for school support staff to quickly identify which students are at risk of becoming chronically absent, and for what reasons
+Patterns of absenteeism  |  Strongest drivers of model predictions | School support staff dashboard
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Dashboard%20Overview.png)  |  ![](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Drivers%20Dashboard.png) | ![](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Social%20Worker%20Dashboard.png)
 
