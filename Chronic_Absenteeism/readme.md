@@ -43,16 +43,14 @@ See the Chronic Absenteeism Package [Documentation](https://github.com/cstohlman
 ## Data Sources
 
 This package combines multiple data sources which were identified through research as strongly related to absenteeism: 
-* School Information System (SIS) data:
-  + Student school, grade, and roster data
-* Beha
-
-
- - student patterns of academic digital engagement (both inside and outside school),
- - demographic data, 
- - academic data, 
- - school level data, and 
- - behavior data.
+* School Information System (SIS):
+  + School, grade, and roster data
+* Barriers to students:
+  + Transportation data, distance from school, school changes, student illness
+* School experiences:
+  + School suspension, disciplinary, behavior, and learning outcome data
+* Engagement data:
+  + Attendance, digital engagement
 
 This package can use several [OEA Modules](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules) to help ingest data sources that are typically used to understand patterns of chronic absenteeism (see below for list of relevant OEA modules).  
 
