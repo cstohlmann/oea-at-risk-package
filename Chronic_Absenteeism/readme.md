@@ -61,13 +61,13 @@ This Predicting Chronic Absenteeism package was developed by [Kwantum Analytics]
 
 Assets in the Chronic Absenteeism package include:
 
-1. [Data Dependencies](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/data_dependencies): For understanding the data relationships and standardized schema mappings used for certain groups of data.
+1. [Data](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/data_dependencies): For understanding the data relationships and standardized schema mappings used for certain groups of data.
 2. [Documentation](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/docs): 
      * [Use Case Documentation](https://github.com/cstohlmann/oea-at-risk-package/blob/main/Chronic_Absenteeism/docs/OEA%20Chronic%20Absenteeism%20Package%20-%20Use%20Case%20Documentation.pdf)
      * Resources and documentation for Machine Learning in Azure.
 3. [Notebooks](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/notebooks): For cleaning, processing, and curating data within the data lake.
-4. [Pipelines](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/pipelines): For an overarching processes used to train the machine learning model and support PowerBI dashboards.
-5. [PowerBI templates](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/powerbi): For exploring, visualizing, and deriving insights from the data.
+4. [Pipelines](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/pipelines): For an overarching process used to train the machine learning model and support PowerBI dashboards.
+5. [PowerBI](https://github.com/cstohlmann/oea-at-risk-package/tree/main/Chronic_Absenteeism/powerbi): For exploring, visualizing, and deriving insights from the data.
 
 # Legal Notices
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), see the [LICENSE](https://github.com/microsoft/OpenEduAnalytics/blob/main/LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the [LICENSE-CODE](https://github.com/microsoft/OpenEduAnalytics/blob/main/LICENSE-CODE) file.
