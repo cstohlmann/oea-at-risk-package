@@ -1,13 +1,15 @@
-# Documents and Images
+# Documentation
 
-The OEA Chronic Absenteeism Package - Use Case Documentation provides guidance on the end-to-end process of developing a successful Chronic Absenteeism use case project, including how to engage stakeholders in the project, prior research on the use case problem domain and theory, how to map data sources to the theory of the problem, and how to implement principles of responsible data and AI in the process of predictive modelling. 
+## Use Case Documentation
 
-Elements to be included here:
- - Fresno Use-Case.
- - Brief explanation of how to use this package.
-     * "Guide to developing a predictive ML model of chronically absent students using Azure Machine Learning."
+The [OEA Chronic Absenteeism Package - Use Case Documentation](https://github.com/cstohlmann/oea-at-risk-package/blob/d52b29fa918a95c6cb084e70f54a9a6aa2cdf00e/Chronic_Absenteeism/docs/OEA%20Chronic%20Abs%20Package%20-%20Use%20Case%20Doc.pdf) provides guidance on the end-to-end process of developing a successful Chronic Absenteeism use case project. This document includes 
+ - defining of the use case problem,
+ - stakeholder identification and engagement in the project,
+ - mapping research theory to data,
+ - and implementing principles of responsible data and AI in the process of predictive modelling. 
+The use case document was completed in collaboration with through a partnership between Microsoft Education, [Kwantum Analytics](https://www.kwantumanalytics.com/), and [Fresno Unified School District](https://www.fresnounified.org/) in Fresno, California.
 
-### First Draft of Explanation and "How to tailor this package"
+## First Draft of Explanation and "How to tailor this package"
 
 Maria comment: This needs to include SIS data as those are the MAIN data sources for attendance as outcome feature to be predicted. This whole section needs to outline the relationship between features as a research problem, doesn't it?
 
