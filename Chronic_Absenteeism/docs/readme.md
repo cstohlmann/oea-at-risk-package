@@ -21,4 +21,6 @@ The Chronic Absenteeism Package provides multiple assets to help accellerate the
       * Sample Synapse Pipeline for data cleaning, joining to ML model table, AutoML triggering and post processing, and serving data to PowerBI.
       * <strong><em>[INCLUDE ANY ADDITIONAL INFORMATION AS CHAD SEES FIT]</strong></em>
 4. <strong>[PowerBI Samples](https://github.com/cstohlmann/oea-at-risk-package/blob/729fa57a0c3a9eeeb0908b1c59b41c76370bde9d/Chronic_Absenteeism/powerbi/readme.md)</strong> 
-      * Example PowerBI dashboards are showcased as developed with key stakeholders at [Fresno Unified School District](https://www.fresnounified.org/).
+      * Example PowerBI dashboards are showcased as developed with key stakeholders at [Fresno Unified School District](https://www.fresnounified.org/). The dashboard data model is also given.
+
+## Machine Learning Resources
