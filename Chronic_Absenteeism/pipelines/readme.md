@@ -18,7 +18,7 @@ The first sub-pipeline does basic data cleaning and aggregation. Each data scour
  
 The first sub-pipeline does basic data cleaning and aggregation. Each data scource has a separate notebook. Processed data is written to Stage 3 to be access later downstream.
 
-!Model Table Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/f0e33c92953c048a74aa6eac531ab357821f12ae/Chronic_Absenteeism/docs/images/p2.png "Model Table Pipeline")
+![Model Table Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/f0e33c92953c048a74aa6eac531ab357821f12ae/Chronic_Absenteeism/docs/images/p2.png "Model Table Pipeline")
 
 ### Step 3: Model Training and Interpretation
  
