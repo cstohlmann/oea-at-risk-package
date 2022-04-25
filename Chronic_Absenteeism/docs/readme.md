@@ -18,7 +18,7 @@ The Chronic Absenteeism Package provides multiple assets to help accellerate the
 2. <strong>[Notebooks](https://github.com/cstohlmann/oea-at-risk-package/blob/e5bb16c5e7d920c79d99a4112943e92081792817/Chronic_Absenteeism/notebooks/readme.md)</strong> 
       * Package notebooks provide example code for standardizing and processing data to make ready for machine learning and PowerBI dashboards. Notebooks were developed to fit the [OEA framework](https://github.com/microsoft/OpenEduAnalytics/blob/07aa28a00b36a1822b69a11b1ac04f0748d1b675/framework/notebook/OEA_py.ipynb) and can be edited and adapted to suit any envirnment. 
 3. <strong>[Pipelines](https://github.com/cstohlmann/oea-at-risk-package/blob/04bc44c2e09e07bc617f91eb403c372ae3aab70d/Chronic_Absenteeism/pipelines/readme.md)</strong> 
-      * <em>What needs to be done:</em> If you prefer to hand-build a model, you can go into the pipeline and rather than kicking off the data to AutoML, build your own notebook for model training and development. You can view model training progress and iterations in the <strong><em>(AutoML Studio??)</strong></em>
+      * Sample Synapse Pipeline for data cleaning, joining to ML model table, AutoML triggering and post processing, and serving data to PowerBI.
       * <strong><em>[INCLUDE ANY ADDITIONAL INFORMATION AS CHAD SEES FIT]</strong></em>
-4. <strong>PowerBI Updates:</strong> If the table names, column names or schemas are changed from any original names to new names; these will need to be reflected in the Power BI dashboard template.
-      * <em>What needs to be done:</em> If the above is applicable to you, make the necessary updates to the dashboard to mirror the schema changes. Also, ensure that you've made adjustments to graphs and visualizations to reflect solution(s) to your personal problem statement(s).
+4. <strong>[PowerBI Samples](https://github.com/cstohlmann/oea-at-risk-package/blob/729fa57a0c3a9eeeb0908b1c59b41c76370bde9d/Chronic_Absenteeism/powerbi/readme.md)</strong> 
+      * Example PowerBI dashboards are showcased as developed with key stakeholders at [Fresno Unified School District](https://www.fresnounified.org/).
