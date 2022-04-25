@@ -19,7 +19,6 @@ The Chronic Absenteeism Package provides multiple assets to help accellerate the
       * Package notebooks provide example code for standardizing and processing data to make ready for machine learning and PowerBI dashboards. Notebooks were developed to fit the [OEA framework](https://github.com/microsoft/OpenEduAnalytics/blob/07aa28a00b36a1822b69a11b1ac04f0748d1b675/framework/notebook/OEA_py.ipynb) and can be edited and adapted to suit any envirnment. 
 3. <strong>[Pipelines](https://github.com/cstohlmann/oea-at-risk-package/blob/04bc44c2e09e07bc617f91eb403c372ae3aab70d/Chronic_Absenteeism/pipelines/readme.md)</strong> 
       * Sample Synapse Pipeline for data cleaning, joining to ML model table, AutoML triggering and post processing, and serving data to PowerBI.
-      * <strong><em>[INCLUDE ANY ADDITIONAL INFORMATION AS CHAD SEES FIT]</strong></em>
 4. <strong>[PowerBI Samples](https://github.com/cstohlmann/oea-at-risk-package/blob/729fa57a0c3a9eeeb0908b1c59b41c76370bde9d/Chronic_Absenteeism/powerbi/readme.md)</strong> 
       * Example PowerBI dashboards are showcased as developed with key stakeholders at [Fresno Unified School District](https://www.fresnounified.org/). The dashboard data model is also given.
 
