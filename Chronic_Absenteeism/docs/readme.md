@@ -24,3 +24,10 @@ The Chronic Absenteeism Package provides multiple assets to help accellerate the
       * Example PowerBI dashboards are showcased as developed with key stakeholders at [Fresno Unified School District](https://www.fresnounified.org/). The dashboard data model is also given.
 
 ## Machine Learning Resources
+
+Predictive models developed for this package use [Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-machine-learning-studio) and [AutoML](https://www.automl.org/automl/). Key resources are outlined below.
+ - ML models were built using a [Synapse Pipeline](https://docs.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities?toc=%2Fazure%2Fsynapse-analytics%2Ftoc.json&tabs=data-factory)
+ - [Synapse notebooks were used to train a model](https://docs.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-machine-learning-tutorial) with auto machine learning. 
+ - Model runs and datasets were logged in [Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-machine-learning-studio).
+ - Model predictions were explained using [Interpret ML](https://interpret.ml/).
+ - PowerBI dashboards were used to assess model fairness, though the [Fair Learn](https://fairlearn.org/) could be used.
