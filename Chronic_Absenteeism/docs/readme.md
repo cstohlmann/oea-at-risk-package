@@ -15,7 +15,7 @@ The Chronic Absenteeism Package provides multiple assets to help accellerate the
 
 1. <strong>Use Case Documentation</strong> 
       * Engaging key stakeholders at the beginning of any data-driven project is essential. The use case document should be completed at the beginning of all projects to clearly define the problem, identify key stakeholders, connect data to research, and address any ethical concerns. Further, completing this document helps to carefully define the problem and approach.
-2. <strong>Notebooks</strong> 
+2. <strong>[Notebooks](https://github.com/cstohlmann/oea-at-risk-package/blob/e5bb16c5e7d920c79d99a4112943e92081792817/Chronic_Absenteeism/notebooks/readme.md)</strong> 
       * Package notebooks provide example code for standardizing and processing data to make ready for machine learning and PowerBI dashboards. Notebooks were developed to fit the [OEA framework](https://github.com/microsoft/OpenEduAnalytics/blob/07aa28a00b36a1822b69a11b1ac04f0748d1b675/framework/notebook/OEA_py.ipynb) and can be edited and adapted to suit any envirnment. 
 3. <strong>[Pipelines](https://github.com/cstohlmann/oea-at-risk-package/blob/04bc44c2e09e07bc617f91eb403c372ae3aab70d/Chronic_Absenteeism/pipelines/readme.md)</strong> 
       * <em>What needs to be done:</em> If you prefer to hand-build a model, you can go into the pipeline and rather than kicking off the data to AutoML, build your own notebook for model training and development. You can view model training progress and iterations in the <strong><em>(AutoML Studio??)</strong></em>
