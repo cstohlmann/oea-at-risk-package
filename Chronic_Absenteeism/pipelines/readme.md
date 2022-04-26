@@ -16,17 +16,17 @@ The first sub-pipeline does basic data cleaning and aggregation. Each data scour
 
 ### Step 2: Model Table
  
-The first sub-pipeline does basic data cleaning and aggregation. Each data scource has a separate notebook. Processed data is written to Stage 3 to be access later downstream.
+The second sub-pipeline combines all model data into a single data (one row per students). Some basic feature engineering is performed to normalize student digital engagment by student grade, school, and class.
 
 ![Model Table Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/0914181cfd4f2f0767ffdd7797befbd0a8cfdd87/Chronic_Absenteeism/docs/images/p2.png "Model Table Pipeline")
 
 ### Step 3: Model Training and Interpretation
  
-The first sub-pipeline does basic data cleaning and aggregation. Each data scource has a separate notebook. Processed data is written to Stage 3 to be access later downstream.
+The third sub-pipeline adjust the model table to be compatible with AutoML, triggers the AutoML run in Azure Machine Learning Studio, generates model explanations for each prediction from the best ML model, and logs model performance.
 
 ![ML Train Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/0914181cfd4f2f0767ffdd7797befbd0a8cfdd87/Chronic_Absenteeism/docs/images/p3.png "ML Train Pipeline")
 
 ## Step 4: Data Cleaning and Aggregation
  
-The first sub-pipeline does basic data cleaning and aggregation. Each data scource has a separate notebook. Processed data is written to Stage 3 to be access later downstream.
+The final sub-pipeline prepares the final tables needed to support PowerBI dashboards.
 Power BI Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/0914181cfd4f2f0767ffdd7797befbd0a8cfdd87/Chronic_Absenteeism/docs/images/p4.png "PowerBI Pipeline")
