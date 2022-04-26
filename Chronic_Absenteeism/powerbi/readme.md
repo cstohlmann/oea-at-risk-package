@@ -12,6 +12,10 @@ The OEA Chronic Absenteeism Package includes example Power BI dashboards which w
 
 | sdfkj |
 
+| ![space-1.jpg](https://blog-assets.thedyrt.com/uploads/2019/01/shutterstock_1033306540-1.jpg) |
+|:--:|
+| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
+
 ## Drivers for Chronic Absence
 
 ![Drivers of Chronic Absence](https://github.com/cstohlmann/oea-at-risk-package/blob/667210e51a66995dc32aa8e7dc6e7565470ac2d3/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Drivers%20Dashboard.png "Drivers of Chronic Absence")
