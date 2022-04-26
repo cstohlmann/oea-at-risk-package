@@ -12,7 +12,7 @@ The main pipeline consists of 4 main sub-pipelines outlined in the below image.
  
 The first sub-pipeline does basic data cleaning and aggregation. Each data scource has a separate notebook. Processed data is written to Stage 3 to be access later downstream.
 
-![Data Cleaning Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/f0e33c92953c048a74aa6eac531ab357821f12ae/Chronic_Absenteeism/docs/images/p1.png "Data Cleaning Pipeline")
+![Data Cleaning Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/a8db67a7a20d0ad73adcc472d54e4d1d7e758c14/Chronic_Absenteeism/docs/images/p1.png "Data Cleaning Pipeline")
 
 ### Step 2: Model Table
  
