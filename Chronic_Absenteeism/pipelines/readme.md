@@ -29,4 +29,4 @@ The [third sub-pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/
 ## Step 4: Data Cleaning and Aggregation
  
 The [final sub-pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/70641bcce2f1aeda778ba07362110b42c897c2a6/Chronic_Absenteeism/pipelines/p4_pbi_serve_support_VSTS.zip) prepares the final tables needed to support PowerBI dashboards.
-Power BI Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/0914181cfd4f2f0767ffdd7797befbd0a8cfdd87/Chronic_Absenteeism/docs/images/p4.png "PowerBI Pipeline")
+![Power BI Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/0914181cfd4f2f0767ffdd7797befbd0a8cfdd87/Chronic_Absenteeism/docs/images/p4.png "PowerBI Pipeline")
