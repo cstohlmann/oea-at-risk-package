@@ -28,5 +28,5 @@ The OEA Chronic Absenteeism Package includes example Power BI dashboards which w
 
 | ![Social Worker Dashboard](https://github.com/cstohlmann/oea-at-risk-package/blob/667210e51a66995dc32aa8e7dc6e7565470ac2d3/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Social%20Worker%20Dashboard.png "Social Worker Dashboard") |
 |:--:|
-| <b> Summary of the top predictive drivers as identified by the ML model. Drivers can be ranked by count, aggregated by school, or explored for individual student. </b>|
+| <b> View of model results to help social workers identify students which need assistance. </b>|
 
