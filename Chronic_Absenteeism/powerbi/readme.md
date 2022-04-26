@@ -8,4 +8,7 @@ The OEA Chronic Absenteeism Package includes example Power BI dashboards which w
 
 ## Overview of Chronic Absence
 
-dsf
+![Main Synapse Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/f0e33c92953c048a74aa6eac531ab357821f12ae/Chronic_Absenteeism/docs/images/mlPipeline.png "Main Pipeline")
+
+![Main Synapse Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/f0e33c92953c048a74aa6eac531ab357821f12ae/Chronic_Absenteeism/docs/images/mlPipeline.png "Main Pipeline")
+
