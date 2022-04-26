@@ -8,11 +8,9 @@ The OEA Chronic Absenteeism Package includes example Power BI dashboards which w
 
 ## Overview of Chronic Absence
 
-|
+| sdflkasjdflkjsadf
 sdflkasjdflkjsadf
-sdflkasjdflkjsadf
-sdflkasjdflkjsadf
-| ![Overview of Chronic Absence](https://github.com/cstohlmann/oea-at-risk-package/blob/667210e51a66995dc32aa8e7dc6e7565470ac2d3/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Dashboard%20Overview.png#right  "Overview of Chronic Absence") |
+sdflkasjdflkjsadf | ![Overview of Chronic Absence](https://github.com/cstohlmann/oea-at-risk-package/blob/667210e51a66995dc32aa8e7dc6e7565470ac2d3/Chronic_Absenteeism/docs/images/Chronic%20Absenteeism%20Dashboard%20Overview.png#right  "Overview of Chronic Absence") |
 
 ## Drivers for Chronic Absence
 
