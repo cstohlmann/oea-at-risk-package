@@ -4,7 +4,7 @@ The OEA Chronic Absenteeism Package implements all data processing, machine lear
 
 ## Main Pipeline
 
-The main pipeline consists of 4 main sub-pipelines outlined in the below image. 
+The [main pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/0fed63ead518ddd176815220662e38c6c1c2b29c/Chronic_Absenteeism/pipelines/ml_main_pipeline_support_VSTS.zip) consists of 4 main sub-pipelines outlined in the below image. 
 
 ![Main Synapse Pipeline](https://github.com/cstohlmann/oea-at-risk-package/blob/f0e33c92953c048a74aa6eac531ab357821f12ae/Chronic_Absenteeism/docs/images/mlPipeline.png "Main Pipeline")
 
